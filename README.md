@@ -5,10 +5,10 @@ Sonagi is a Korean word that means “rain shower”. It is also the title of a 
 
 ### Preview Image 
 Sketch of the Story Segment: Korean
-<img src="https://github.com/InhyeLee-Data/thesis-2021/blob/78053d1bfd85c8f01473d46f15832d083dea6a27/initial/sonagi_story_segment.png" width=800px>
+<img src="https://github.com/InhyeLee-Data/thesis-2021/blob/78053d1bfd85c8f01473d46f15832d083dea6a27/initial/sonagi_story_segment.png" width=650px>
 <br>
 Sketch of the Story Segment: English Translation
-<img src="https://github.com/InhyeLee-Data/thesis-2021/blob/main/initial/sonagi_story_segment_en.png" width=800px>
+<img src="https://github.com/InhyeLee-Data/thesis-2021/blob/main/initial/sonagi_story_segment_en.png" width=650px>
 
 ### Intial storyboard and system diagram
 https://github.com/InhyeLee-Data/thesis-2021/tree/main/initial 
