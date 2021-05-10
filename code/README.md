@@ -1,4 +1,4 @@
-# sonagi3
+# sonagi
 
 ## Project setup
 ```
