@@ -23,4 +23,4 @@ Deepest thanks to the fellow students without whose continuous encouragement and
 This project could not have started if it weren't for Hwang Sun Won's beautiful concise language that has stayed with me since my childhood. 
 Lastly, thank you so much Samara Huggins for inspiring me with your incredible interpretation of Sonagi and thank you friends who have shared the sketches of the Sonagi map. 
 
-Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design,  May 2021
+Submitted in partial fulfillment of the requirements for the degree of Master of Science in Data Visualization at Parsons School of Design,  May 2021
