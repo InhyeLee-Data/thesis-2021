@@ -9,3 +9,18 @@ Sonagi is a Korean word that means “rain shower”. It is also the title of a 
 ### Preview Image
 <img src="https://github.com/InhyeLee-Data/thesis-2021/blob/main/preview.png" width=650px>
 
+### Credits
+Mapping the Literary Geography of Sonagi is a project by Inhye Lee.
+
+The Original Sonagi Text is written by the author Hwang Sun Won. (published in 1953)
+English Translation is created by Samara Huggins.
+
+### Acknowledgement
+Thanks to Daniel Sauter, Aaron Hill, Richard The and Christian Swinehart for your guidance and encouragment throughout the program.
+Special thanks to Chris Bost and guest critics Ellie and Alec who gave invaluable feedbacks.
+Deepest thanks to the fellow students without whose continuous encouragement and presence I could not have stayed on the project.
+
+This project could not have started if it weren't for Hwang Sun Won's beautiful concise language that has stayed with me since my childhood. 
+Lastly, thank you so much Samara Huggins for inspiring me with your incredible interpretation of Sonagi and thank you friends who have shared the sketches of the Sonagi map. 
+
+Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design,  May 2021
