@@ -1,0 +1,122 @@
+
+{
+  "name": "SONAGI MENTIONED LOCATIONS",
+  "children": [ 
+  {
+    "name": "AREAS OF ACTIONS",
+    "children": [
+    {
+      "name": "School Area",
+      "children": [
+      {"name": "학교, School", "class": "school"},
+      {"name": "운동장, Schoolyard", "class": "schoolPlayground"},
+      {"name": "5학년 여자 반, Girls' 5th grade class", "class": "school5thGradeClass"},
+      {"name": "학교에서 돌아오는 길, Return Path From School", "class": "pathFromSchool"}
+      ]
+    },
+    {
+      "name": "Creek Area",
+      "children": [
+      {"name": "개울, Creek", "class": "creek"},
+      {"name": "개울 기슭, The Edge of the Water", "class": "creekEdge"},
+      {"name": "징검다리, Stepping Stones", "class": "steppingStone"},
+      {"name": "개울 둑, Creek Bank, Bank", "class": "creekBank"}
+      ]
+    },
+    {
+      "name": "A Field of Grass Reeds Area",
+      "children": [
+      {"name": "갈밭, A Field of Grass Reeds", "class": "reedsField"},
+      {"name": "갈밭 사잇길, A Path through the grass field", "class": "reedsFieldPath"},
+      {"name": "갈밭 머리, The Head of the Tall Grass Field", "class": "reedsTallest"}
+      ]
+    },
+    {
+      "name": "A Buckwheat Field Area",
+      "children": [
+      {"name": "메밀밭, A Buckwheat field", "class": "buckWheatField"}
+      ]
+    },
+    {
+      "name": "A Fork in the Road Area",
+      "children": [
+      {"name": "갈림길, A Fork in the Road", "class": "fork"},
+      {"name": "우대로 한 십 리 가까운 길, A passage of 10-ri upwards", "class": "upperPath"},
+      {"name": "아래편으로 한 삼 마장, A passage of three pastures below", "class": "lowerPath"}
+      ]
+    },
+    {
+      "name": "Girl's Home Area",
+      "children": [
+      {"name": "서당골, Seodanggol Village", "class": "seodanggol"},
+      {"name": "소녀의 집, Girl's Home", "class": "girlsHouse"}
+      ]
+    },
+    {
+      "name": "Boy's Home Area",
+      "children": [
+      {"name": "외양간, A Barn", "class": "barn"},
+      {"name": "덕쇠 할아버지네 호두밭, Elder Deok Soe's Walnut Field", "class": "walnutField"},
+      {"name": "돌아오는 길, The way back to boy's home from the Walnut Field", "class": "pathFromWalnutField"},
+      {"name": "그늘, Shade", "class": "shade"}
+      ]
+    },
+    {
+      "name": "A Rice Field Area",
+      "children": [
+      {"name": "논, A Rice Field", "class": "ricePaddy"},
+      {"name": "논 사잇길, A Path through the Rice Field", "class": "pathThroughRicePaddy"},
+      {"name": "허수아비 1, First Scarecrow", "class": "scarecrow"},
+      {"name": "허수아비 2, Second Scarecrow", "class": "scarecrow"},
+      {"name": "도랑, Ditch", "class": "ditch"}
+      ]
+    },
+    {
+    "name": "Fields Area",
+    "children": [
+      {"name": "밭, Fields", "class": "field"},
+      {"name": "수수밭, Sorghum Fields", "class": "sorghumField"},
+      {"name": "수숫단, Sorghum Stalks", "class": "sorghumBundle"},
+      {"name": "원두막, A Lookout Hut", "class": "lookoutHut"},
+      {"name": "무우밭, A Radish Field", "class": "radishField"}
+    ]
+    },
+    {
+      "name": "Mountain Area",
+      "children": [
+      {"name": "산, Mountain", "class": "mountain"},
+      {"name": "산마루, Mountain Ridge", "class": "mountainRidge"},
+      {"name": "바위, A Large Rock ", "class": "largeRock"},
+      {"name": "비탈진 곳, A Steep Part, Slope, Down to the Arrowroots", "class": "slope"}
+      ]
+    }
+    ]
+  },
+  {
+  "name": "AREAS OF NO ACTIONS",
+      "children": [
+          {
+              "name": "SEEN LOCATIONS",
+              "children": [
+                  {
+                      "name": "The Valley on the Other Side",
+                      "children": [
+                          {"name": "맞은편 골짜기, The Valley on the Other Side", "class": "otherValley"},
+                          {"name": "초가집 몇, A Group of Thatched Roof Huts", "class": "thatchedRoofHuts"}
+                      ]
+                  }
+                  ]
+              },
+          {
+              "name": "REFERRED LOCATIONS",
+              "children": [
+                      {"name": "서울, Seoul", "class": "seoul"},
+                      {"name": "시골, Countryside", "class": "countryside"},
+                      {"name": "양평읍, Yeongpyong-up", "class": "yangpyeong"},
+                      {"name": "조그마한 가겟방, A Little Shop", "class": "littleShop"}
+                  ]
+              }
+      ]
+    }
+  ]
+}

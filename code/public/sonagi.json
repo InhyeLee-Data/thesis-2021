@@ -1,0 +1,2843 @@
+[
+  {
+      "__7 sections": "1",
+      "Segment": "1",
+      "N": "1",
+      "Overall Location": "Creek",
+      "Ko": "소년은 <a id=\"creek1_ko\" class=\"highlight creek\">개울</a>가에서 소녀를 보자 곧 윤 초시네 증손녀(曾孫女)딸이라는 걸 알 수 있었다.",
+      "En": "When the boy saw the young girl by the <a id=\"creek1_en\" class=\"highlight creek\">creek</a>, he soon realized that she was the great-granddaughter of Yoon Cho-si.",
+      "Location Addresses in Text": "creek1_ko, creek1_en",
+      "Style Class": "creek"
+  },
+  {
+      "__7 sections": "1",
+      "Segment": "1",
+      "N": "2",
+      "Overall Location": "Creek",
+      "Ko": "소녀는 <a id=\"creek2_ko\" class=\"highlight creek\">개울</a>에다 손을 잠그고 물장난을 하고 있는 것이다.",
+      "En": "The girl immersed her hand into the <a id=\"creek2_en\" class=\"highlight creek\">water</a> and splashed it about playfully.",
+      "Location Addresses in Text": "creek2_ko, creek2_en",
+      "Style Class": "creek"
+  },
+  {
+      "__7 sections": "1",
+      "Segment": "1",
+      "N": "3",
+      "Overall Location": "Creek",
+      "Ko": "<a id=\"seoul1_ko\" class=\"highlight seoul\">서울</a>서는 이런 <a id=\"creek3_ko\" class=\"highlight creek\">개울</a>물을 보지 못하기나 한 듯이.",
+      "En": "A <a id=\"creek3_ko\" class=\"highlight creek\">creek</a> like this couldn't be found back in <a id=\"seoul1_en\" class=\"highlight seoul\">Seoul</a>.",
+      "Location Addresses in Text": "creek3_ko, creek3_en, seoul1_ko, seoul1_en",
+      "Style Class": "creek, seoul",
+      "Type of Location (Add additional Style)": "Seoul is a Referred Location"
+  },
+  {
+      "__7 sections": "1",
+      "Segment": "1",
+      "N": "4",
+      "Overall Location": "Creek",
+      "Ko": "벌써 며칠째 소녀는, <a id=\"school1_ko\" class=\"highlight school\">학교</a>에서 <a id =\"pathFromSchool1_ko\"  class=\"highlight pathFromSchool\">돌아오는 길</a>에 물장난이었다.",
+      "En": "Over the course of the next several days, she would stop to play in with the water on <a id =\"pathFromSchool1_en\" class=\"highlight pathFromSchool\">her way home</a> from <a id=\"school1_en\" class=\"highlight school\">school</a>.",
+      "Location Addresses in Text": "school1_ko, pathFromSchool1_ko, school1_en, pathFromSchool1_en, school1_ko, school1_en,",
+      "Style Class": "school"
+  },
+  {
+      "__7 sections": "1",
+      "Segment": "1",
+      "N": "5",
+      "Overall Location": "Creek",
+      "Ko": "그런데, 어제까지 <a id =\"creekEdge1_ko\" class=\"highlight creekEdge\">개울 기슭</a>에서 하더니, ",
+      "En": "Up until yesterday, she played from the <a id=\"creekEdge1_ko\" class=\"highlight creekEdge\">edge of the water</a>. ",
+      "Location Addresses in Text": "creekEdge1_ko, creekEdge1_en",
+      "Style Class": "creekEdge",
+      "Additional Note": "Might need to rethink the category of 개울기슭. If contains \"text\" , then connect.."
+  },
+  {
+      "__7 sections": "1",
+      "Segment": "1",
+      "N": "6",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "오늘은 <a id =\"steppingStone1_ko\" class=\"highlight steppingStone\">징검다리</a> 한가운데 앉아서 하고 있었다.",
+      "En": "Today, she did so while seated on a <a id=\"steppingStone1_en\" class=\"highlight steppingStone\">stepping-stone<a> in the middle of the water.",
+      "Location Addresses in Text": "steppingStone1_ko, steppingStone1_en",
+      "Style Class": "steppingStone"
+  },
+  {
+      "__7 sections": "1",
+      "Segment": "1",
+      "N": "7",
+      "Overall Location": "Creek",
+      "Detailed Location": "Creek Bank",
+      "Ko": "소년은 <a id =\"creekBank1_ko\"  class=\"highlight creekBank\">개울둑</a>에 앉아 버렸다.",
+      "En": "The boy sat on the <a id =\"creekBank1_en\" class=\"highlight creekBank\">bank</a>,",
+      "Location Addresses in Text": "creekBank1_ko, creekBank1_en",
+      "Style Class": "creekBank"
+  },
+  {
+      "__7 sections": "1",
+      "Segment": "1",
+      "N": "8",
+      "Overall Location": "Creek",
+      "Detailed Location": "Creek Bank",
+      "Ko": "소녀가 비키기를 기다리자는 것이다.",
+      "En": "waiting for the girl to move."
+  },
+  {
+      "__7 sections": "1",
+      "Segment": "1",
+      "N": "9",
+      "Overall Location": "Creek",
+      "Ko": "요행 지나가는 사람이 있어, 소녀가 길을 비켜 주었다.",
+      "En": "She cleared the way to make room for someone crossing the water in her direction."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "1",
+      "Overall Location": "Creek",
+      "Ko": "다음 날은 좀 늦게 <a id=\"creek4_ko\" class=\"highlight creek\">개울가</a>로 나왔다.",
+      "En": "The following day, the girl appeared at the <a id=\"creek4_en\" class=\"highlight creek\">creek</a> slightly later than usual.",
+      "Location Addresses in Text": "creek4_ko, creek4_en",
+      "Style Class": "creek"
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "2",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "이 날은 소녀가 <a id =\"steppingStone2_ko\" class=\"highlight steppingStone\">징검다리</a> 한가운데 앉아 세수를 하고 있었다.",
+      "En": "On this day, she was washing her face from her seat on the center <a id =\\\"steppingStone2_en\" class=\"highlight steppingStone\">stone</a>.",
+      "Location Addresses in Text": "steppingStone2_ko, steppingStone2_en ",
+      "Style Class": "steppingStone"
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "3",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "분홍 스웨터 소매를 걷어올린 목덜미가 마냥 희었다.",
+      "En": "The neckline of her pink sweater with its sleeves rolled up was a spotless white."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "4",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "한참 세수를 하고 나더니, 이번엔 물 속을 빤히 들여다 본다.",
+      "En": "After splashing her face a few times, she gazed into the water."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "5",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "얼굴이라도 비추어 보는 것이리라.",
+      "En": "Her face seemed to glow."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "6",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "갑자기 물을 움켜 낸다. 고기 새끼라도 지나가는 듯.",
+      "En": "All of a sudden, the girl grasps at the water as though to catch a small passing fish."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "7",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "소녀는 소년이 <a id =\"creekBank2_ko\"  class=\"highlight creek bank\">개울둑</a>에 앉아 있는 걸 아는지 모르는지 그냥 날쌔게 물만 움켜 낸다.",
+      "En": "Whether or not she was aware of the boy's presence on the <a id =\"creekBank2_en\"  class=\"highlight creekBank\">creek bank</a>, she grabs the water swiftly. ",
+      "Location Addresses in Text": "creekBank2_ko, creekBank2_en",
+      "Style Class": "creekBank"
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "8",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "그러나, 번번이 허탕이다.",
+      "En": "Every now and then, it was in vain."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "9",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "그대로 재미있는 양, 자꾸 물만 움킨다.",
+      "En": "Then she kept scooping up nothing but water."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "10",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "어제처럼 <a id=\"creek5_ko\" class=\"highlight creek\">개울</a>을 건너는 사람이 있어야 길을 비킬 모양이다.",
+      "En": "She stepped out of the way as she had the day before to allow someone to cross over the <a id=\"creek5_en\" class=\"highlight creek\">creek</a>.",
+      "Location Addresses in Text": "creek5_ko, creek5_en",
+      "Style Class": "creek"
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "11",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "그러다가, 소녀가 물 속에서 무엇을 하나 집어 낸다.",
+      "En": "The girl then picked something out of the water."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "12",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "하얀 조약돌이었다.",
+      "En": "It was a white pebble."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "13",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "그리고는, 벌떡 일어나 팔짝팔짝 <a id =\"steppingStone3_ko\" class=\"highlight steppingStone\">징검다리</a>를 뛰어 건너간다.",
+      "En": "She jumped to her feet and hopped along the <a id =\"steppingStone3_en\" class=\"highlight steppingStone\">stepping-stones</a>.",
+      "Location Addresses in Text": "steppingStone3_ko, steppingStone3_en ",
+      "Style Class": "steppingStone",
+      "Type of Location (Add additional Style)": "Stepping stone style has to be defined after creek?"
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "14",
+      "Overall Location": "Creek",
+      "Detailed Location": "Across the creek",
+      "Ko": "다 건너가더니만 홱 이리로 돌아서며,",
+      "En": "The passerby whipped around once she made it to the other side, and said, ",
+      "Type of Location (Add additional Style)": "* Samara's creative interpretation"
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "15",
+      "Overall Location": "Creek",
+      "Detailed Location": "Across the creek",
+      "Ko": "\"이 바보.\"",
+      "En": "\"What a fool.\""
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "16",
+      "Overall Location": "Creek",
+      "Detailed Location": "Across the creek",
+      "Ko": "조약돌이 날아왔다.",
+      "En": "The pebble flew in the air."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "2",
+      "N": "17",
+      "Overall Location": "Creek",
+      "Detailed Location": "Across the creek",
+      "Ko": "소년은 저도 모르게 벌떡 일어섰다.",
+      "En": "The boy sprung to his feet instinctively."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "1",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "단발 머리를 나풀거리며 소녀가 막 달린다.",
+      "En": "The girl ran swiftly, her short hair fluttering in the wind."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "2",
+      "Overall Location": "Field of Grass Reeds",
+      "Detailed Location": "Path through the Field",
+      "Ko": "<a id =\"reedsField1_ko\" class=\"highlight reedsField\">갈밭</a> <a id =\"reedsFieldPath1_ko\" class=\"highlight reedsFieldPath\">사잇길</a>로 들어섰다.",
+      "En": "She began on the <a id =\"reedsField1_en\" class=\"highlight reedsField\">path through</a> the <a id =\"reedsFieldPath1_en\" class=\"highlight reedsFieldPath\">field of grass reeds</a>.",
+      "Location Addresses in Text": "reedsField1_ko, reedsField1_en, reedsFieldPath1_ko, reedsFieldPath1_en",
+      "Style Class": "reedsField, reedsFieldPath"
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "3",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "뒤에는 청량한 가을 햇살 아래 빛나는 갈꽃뿐.",
+      "En": "She passed flowers flourishing beneath the radiant autumn sun."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "4",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "이제 저쯤 <a id =\"reedsTallest1_ko\" class=\"highlight reedsField\">갈밭머리</a>로 소녀가 나타나리라. ",
+      "En": "By now, the girl should've appeared among the <a id =\"reedsTallest1_en\" class=\"highlight reedsField\">tall grass</a>.",
+      "Location Addresses in Text": "reedsTallest1_ko, reedsTallest1_en",
+      "Style Class": "reedsField",
+      "Type of Location (Add additional Style)": " // 갈밭 머리 HERE is an Imagined Place.",
+      "Additional Note": "* How to categorize 갈밭머리 = at the entrance(beginning) of the field is more correct meaning-wise"
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "5",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "꽤 오랜 시간이 지났다고 생각됐다.",
+      "En": "It seemed as though quite a bit of time had gone by."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "6",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "그런데도 소녀는 나타나지 않는다.",
+      "En": "However, the girl did not emerge."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "7",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "발돋움을 했다.",
+      "En": "The boy stood on his tiptoes."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "8",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "그러고도 상당한 시간이 지났다고 생각됐다.",
+      "En": "And then much more time seemed to have flown by."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "9",
+      "Overall Location": "Field of Grass Reeds",
+      "Detailed Location": "Entrance of the grass fields",
+      "Ko": "저 쪽 <a id =\"reedsTallest2_ko\" class=\"highlight reedsField\">갈밭머리</a>에 갈꽃이 한 옴큼 움직었다.",
+      "En": "A bundle of reed flowers moved about in the <a id =\"reedsTallest2_ko\" class=\"highlight reedsField\">sea of tall grass</a>.",
+      "Location Addresses in Text": "reedsTallest2_ko, reedsTallest2_en",
+      "Style Class": "reedsField"
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "10",
+      "Overall Location": "Field of Grass Reeds",
+      "Detailed Location": "Entrance of the grass fields",
+      "Ko": "소녀가 갈꽃을 안고 있었다.",
+      "En": "The girl was embracing the bouquet."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "11",
+      "Overall Location": "Field of Grass Reeds",
+      "Detailed Location": "Path through the Field",
+      "Ko": "그리고, 이제는 천천한 걸음이었다.",
+      "En": "Her pace slowed to a stroll."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "12",
+      "Overall Location": "Field of Grass Reeds",
+      "Detailed Location": "Path through the Field",
+      "Ko": "유난히 맑은 가을 햇살이 소녀의 갈꽃머리에서 반짝거렸다.",
+      "En": "The flowerheads radiated the unusually clear autumn sun."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "13",
+      "Overall Location": "Field of Grass Reeds",
+      "Detailed Location": "Path through the Field",
+      "Ko": "소녀 아닌 갈꽃이 <a id =\"reedsFieldPath2_ko\" class=\"highlight reedsFieldPath\">들길</a>을 걸어가는 것만 같았다.",
+      "En": "It felt like a bouquet, not a girl, was walking <a id =\"reedsFieldPath2_en\" class=\"highlight reedsFieldPath\">through the field</a>.",
+      "Location Addresses in Text": "reedsFieldPath2_ko, reedsFieldPath2_en",
+      "Style Class": "reedsFieldPath",
+      "Uncertainty": "Uncertainty"
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "14",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "소년은 이 갈꽃이 아주 뵈지 않게 되기까지 그대로 서 있었다.",
+      "En": "The boy didn't move a muscle until the flowers vanished from his sight."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "15",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "문득, 소녀가 던진 조약돌을 내려다보았다.",
+      "En": "Suddenly, he looked down at the pebble that the girl tossed."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "16",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "물기가 걷혀 있었다.",
+      "En": "It was covered in water."
+  },
+  {
+      "__7 sections": "2",
+      "Segment": "3",
+      "N": "17",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "소년은 조약돌을 집어 주머니에 넣었다.",
+      "En": "He grabbed the stone and tucked tucked it away in his pocket."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "1",
+      "Overall Location": "Creek",
+      "Ko": "다음 날부터 좀더 늦게 <a id=\"creek6_ko\" class=\"highlight creek\">개울</a>가로 나왔다.",
+      "En": "He came to the <a id=\"creek6_en\" class=\"highlight creek\">creek</a> even later from the next day.",
+      "Location Addresses in Text": "creek6_ko, creek6_en",
+      "Style Class": "creek"
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "2",
+      "Overall Location": "Creek",
+      "Ko": "소녀의 그림자가 뵈지 않았다.",
+      "En": "The boy could hardly make out her shadow."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "3",
+      "Overall Location": "Creek",
+      "Ko": "다행이었다.",
+      "En": "It was a blessing."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "4",
+      "Overall Location": "Creek",
+      "Ko": "그러나, 이상한 일이었다.",
+      "En": "However, it was strange."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "5",
+      "Overall Location": "Creek",
+      "Ko": "소녀의 그림자가 뵈지 않는 날이 계속될수속 소년의 가슴 한 구석에는 어딘가 허전함이 자리 것이었다.",
+      "En": "The boy felt an emptiness within him with the passing of the days where the girl's shadow couldn't be seen."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "6",
+      "Overall Location": "Creek",
+      "Ko": "주머니 속 조약돌을 주무르는 버릇이 생겼다.",
+      "En": "He developed a habit of rubbing the girl's pebble in his pocket."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "7",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "그러한 어떤 날, 소년은 전에 소녀가 앉아 물장난을 하던 <a id =\"steppingStone4_ko\" class=\"highlight steppingStone\">징검다리</a> 한가운데에 앉아 보았다.",
+      "En": "Then one day, the boy tried playing with the water from the girl's seat on the center <a id =\"steppingStone4_en\" class=\"highlight steppingStone\">stepping stone</a>.",
+      "Location Addresses in Text": "steppingStone4_ko, steppingStone4_en ",
+      "Style Class": "steppingStone"
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "8",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "물 속에 손을 잠갔다.",
+      "En": "He submerged his hand into the water."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "9",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "세수를 하였다.",
+      "En": "And washed his face."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "10",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "물 속을 들여다보았다.",
+      "En": "He stared into the water."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "11",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "검게 탄 얼굴이 그대로 비치었다.",
+      "En": "His tanned skin began to glow. "
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "12",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "싫었다.",
+      "En": "He hated it."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "13",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "소년은 두 손으로 물 속의 얼굴을 움키었다.",
+      "En": "He grasped his face in the water with both hands."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "14",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "몇 번이고 움키었다.",
+      "En": "He repeated this again and again."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "15",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "그러다가 깜짝 놀라 일어나고 말았다.",
+      "En": "He shouldn't have sprung to his feet so suddenly."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "16",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "소녀가 이리로 건너오고 있지 않느냐.",
+      "En": "The girl was headed his way."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "4",
+      "N": "17",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "숨어서 내가 하는 일을 엿보고 있었구나.'",
+      "En": "So you hid out and watched my every move?'"
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "1",
+      "Overall Location": "From the Creek to the field",
+      "Ko": "소년은 달리기를 시작했다.",
+      "En": "The boy took off running.",
+      "Uncertainty": "Uncertain Location"
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "2",
+      "Overall Location": "From the Creek to the field",
+      "Ko": "<a class=\"highlight steppingStone\">디딤돌</a>을 헛디뎠다.",
+      "En": "But his footing faltered on the <a class=\"highlight steppingStone\">stepping-stone</a>.",
+      "Uncertainty": "Uncertain Location"
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "3",
+      "Overall Location": "From the Creek to the field",
+      "Ko": "한 발이 물 속에 빠졌다.",
+      "En": "One foot sunk into the water.",
+      "Uncertainty": "Uncertain Location"
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "4",
+      "Overall Location": "From the Creek to the field",
+      "Ko": "더 달렸다.",
+      "En": "He continued running.",
+      "Uncertainty": "Uncertain Location"
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "5",
+      "Overall Location": "From the Creek to the field",
+      "Ko": "물을 가릴 데가 있어 줬으면 좋겠다.",
+      "En": "It would've been nice to have a place to camoflauge his body.",
+      "Uncertainty": "Uncertain Location"
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "6",
+      "Overall Location": "From the Creek to the field",
+      "Ko": "이 쪽 길에는 <a id =\"reedsField2_ko\" class=\"highlight reedsField\">갈밭</a>도 없다.",
+      "En": "There isn't a <a id =\"reedsField2_en\" class=\"highlight reedsField\">tall grass field</a> in this direction.",
+      "Location Addresses in Text": "reedsField2_ko, reedsField2_en",
+      "Style Class": "reedsField",
+      "Type of Location (Add additional Style)": "Seoul is a referred location"
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "7",
+      "Overall Location": "Buckwheat Field",
+      "Ko": "<a id =\"buckWheatField1_ko\" class=\"highlight buckWheatField\">메밀밭</a>이다.",
+      "En": "Only a <a id =\"buckWheatField1_en\" class=\"highlight buckWheatField\">buckwheat field</a>.",
+      "Location Addresses in Text": "buckWheatField1_ko, buckWheatField1_en",
+      "Style Class": "buckWheatField"
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "8",
+      "Overall Location": "Buckwheat Field",
+      "Ko": "전에 없이 메밀꽃 냄새가 짜릿하게 코를 찌른다고 생각됐다.",
+      "En": "To him, the fragrance of buckwheat flowers was intoxicating."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "9",
+      "Overall Location": "Buckwheat Field",
+      "Ko": "미간이 아찔했다.",
+      "En": "He felt faint."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "10",
+      "Overall Location": "Buckwheat Field",
+      "Ko": "찝찔한 액체가 입술에 흘러들었다.",
+      "En": "A sticky fluid ran down his lips."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "11",
+      "Overall Location": "Buckwheat Field",
+      "Ko": "코피였다.",
+      "En": "His nose was bleeding."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "12",
+      "Overall Location": "Buckwheat Field",
+      "Ko": "소년은 한 손으로 코피를 훔쳐내면서 그냥 달렸다.",
+      "En": "He wiped the blood flooding his upper lip with one hand as he continued running."
+  },
+  {
+      "__7 sections": "3",
+      "Segment": "5",
+      "N": "13",
+      "Overall Location": "Buckwheat Field",
+      "Ko": "어디선가 \"바보, 바보\" 하는 소리가 자꾸만 뒤따라오는 것 같았다.",
+      "En": "The echo of \"fool, fool\" seemed to follow behind him."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "1",
+      "Overall Location": "Buckwheat Field",
+      "Ko": "토요일이었다.",
+      "En": "It was Saturday."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "2",
+      "Overall Location": "Creek",
+      "Ko": "<a id=\"creek7_ko\" class=\"highlight creek\">개울가</a>에 이르니, 며칠째 보이지 않던 소녀가 건너편 가에 앉아 물장난을 하고 있었다.",
+      "En": "The girl who'd been out of sight for several days was playing with the water from across the <a id=\"creek7_en\" class=\"highlight creek\">creek</a>.",
+      "Location Addresses in Text": "creek7_ko, creek7_en",
+      "Style Class": "creek"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "3",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "모르는 체 <a id =\"steppingStone5_ko\" class=\"highlight steppingStone\">징검다리</a>를 건너기 시작했다.",
+      "En": "She began crossing the <a id =\"steppingStone5_en\" class=\"highlight steppingStone\">stepping stones</a>, pretending to be unaware.",
+      "Location Addresses in Text": "steppingStone5_ko, steppingStone5_en ",
+      "Style Class": "steppingStone"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "4",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "얼마 전에 소녀 앞에서 한 번 실수를 했을 뿐, 여태 큰길 가듯이 건너던 <a id =\"steppingStone6_ko\" class=\"highlight steppingStone\">징검다리</a>를 오늘은 조심스럽게 건넌다.",
+      "En": "He slipped up in front of the girl not too long ago, so he crossed each <a id =\"steppingStone6_en\" class=\"highlight steppingStone\">stepping stone</a> with caution.",
+      "Location Addresses in Text": "steppingStone6_ko, steppingStone6_en ",
+      "Style Class": "steppingStone"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "5",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "\"얘.\"",
+      "En": "\"Hey, you.\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "6",
+      "Overall Location": "Creek",
+      "Detailed Location": "Stepping Stone",
+      "Ko": "못 들은 체했다. ",
+      "En": "He pretended not to hear. ",
+      "Location Addresses in Text": "creekBank3_ko, creekBank3_en",
+      "Style Class": "creekBank"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "7",
+      "Overall Location": "Creek",
+      "Detailed Location": "Creek Bank",
+      "Ko": "<a id =\"creekBank3_ko\"  class=\"highlight creekBank\">둑</a> 위로 올라섰다.",
+      "En": "He climbed up onto the <a id =\"creekBank3_en\"  class=\"highlight creekBank\">creek bank</a>."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "8",
+      "Overall Location": "Creek",
+      "Detailed Location": "Creek Bank",
+      "Ko": "\"얘, 이게 무슨 조개지?\"",
+      "En": "\"You there, what kind of clam is this?\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "9",
+      "Overall Location": "Creek",
+      "Detailed Location": "Creek Bank",
+      "Ko": "자기도 모르게 돌아섰다.",
+      "En": "The girl turned around before the boy realized."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "10",
+      "Overall Location": "Creek",
+      "Detailed Location": "Creek Bank",
+      "Ko": "소녀의 맑고 검은 눈과 마주쳤다.",
+      "En": "The girl's shining black eyes locked with his own."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "11",
+      "Overall Location": "Creek",
+      "Detailed Location": "Creek Bank",
+      "Ko": "얼른 소녀의 손바닥으로 눈을 떨구었다.",
+      "En": "He hastily lowered his gaze to the palm of her hand."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "12",
+      "Overall Location": "Creek",
+      "Detailed Location": "Creek Bank",
+      "Ko": "\"비단조개.\"",
+      "En": "\"It's a silk shell clam.\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "6",
+      "N": "13",
+      "Overall Location": "Creek",
+      "Detailed Location": "Creek Bank",
+      "Ko": "\"이름도 참 곱다.\"",
+      "En": "\"What a lovely name.\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "7",
+      "N": "1",
+      "Overall Location": "Fork",
+      "Ko": "<a id =\"fork1_ko\" class=\"highlight fork\">갈림길</a>에 왔다.",
+      "En": "They came to a <a id =\"fork1_en\" class=\"highlight fork\">fork in the road</a>.",
+      "Location Addresses in Text": "fork1_ko, fork1_en",
+      "Style Class": "fork"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "7",
+      "N": "2",
+      "Overall Location": "Fork",
+      "Ko": "여기서 소녀는 <a id =\"lowerPath1_ko\" class=\"highlight lowerPath\">아래편으로 한 삼 마장</a>쯤, 소년은 <a id =\"upperPath1_ko\" class=\"highlight upperPath\">우대로 한 십 리 가까운 길</a>을 가야 한다.",
+      "En": "The boy had to travel  <a id =\"upperPath1_en\" class=\"highlight upperPath\">10-ri upwards</a> while the girl had to trek through at least <a id =\"lowerPath1_en\" class=\"highlight lowerPath\">three pastures below</a>.\n",
+      "Location Addresses in Text": "upperPath1_ko, upperPath1_en, lowerPath1_ko, lowerPath1_en",
+      "Style Class": "upperPath, lowerPath"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "7",
+      "N": "3",
+      "Overall Location": "Fork",
+      "Ko": "소녀가 걸음을 멈추며,",
+      "En": "The girl stopped walking and asked,"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "7",
+      "N": "4",
+      "Overall Location": "Fork",
+      "Ko": "\"너, 저 <a id =\"mountain1_ko\" class=\"highlight mountain\">산</a> 너머에 가 본 일 있니?\"",
+      "En": "\"Have you ever climbed up that <a id =\"mountain1_en\" class=\"highlight mountain\">mountain</a>?\"",
+      "Location Addresses in Text": "mountain1_ko, mountain1_en",
+      "Style Class": "mountain"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "7",
+      "N": "5",
+      "Overall Location": "Fork",
+      "Ko": "<a id =\"field1_ko\" class=\"highlight field\">벌</a> 끝을 가리켰다.",
+      "En": "She pointed toward the end of the <a id =\"field1_en\" class=\"highlight field\">field</a>.",
+      "Location Addresses in Text": "field1_ko, field1_en",
+      "Style Class": "field",
+      "Uncertainty": "Uncertain. It is towards the direction of the mountain. Yet a little bit of uncertainty whether this refers to where the buckwheat fields are",
+      "Type of Location (Add additional Style)": "Changed the translation. 벌 - it?"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "7",
+      "N": "6",
+      "Overall Location": "Fork",
+      "Ko": "\"없다.\"",
+      "En": "\"No.\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "7",
+      "N": "7",
+      "Overall Location": "Fork",
+      "Ko": "\"우리, 가 보지 않으련? <a id =\"countryside1_ko\"  class=\"highlight countryside\">시골</a> 오니까 혼자서 심심해 못 견디겠다.\"",
+      "En": "\"Wanna give it a try? I can't ... be bored all by myself since I came out to the <a id =\"countryside1_en\"  class=\"highlight countryside\">countryside</a>...",
+      "Location Addresses in Text": "countryside1_ko, countryside1_en",
+      "Style Class": "countryside",
+      "Type of Location (Add additional Style)": "Referred Location - The entire AREA mentioned by the girl"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "7",
+      "N": "8",
+      "Overall Location": "Fork",
+      "Ko": "\"저래 봬도 멀다.\"",
+      "En": "\"That mountain's too far from here.\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "7",
+      "N": "9",
+      "Overall Location": "Fork",
+      "Ko": "\"멀면 얼마나 멀기에? <a id=\"seoul2_ko\" class=\"highlight seoul\">서울</a> 있을 땐 사뭇 먼 데까지 소풍 갔었다.\"",
+      "En": "\"What do you mean far? When I was in <a id=\"seoul2_en\" class=\"highlight seoul\">Seoul</a>, I went on a day trip to a really distant place.\"",
+      "Location Addresses in Text": "seoul2_ko, seoul2_en",
+      "Style Class": "seoul",
+      "Type of Location (Add additional Style)": "Seoul is a Referred Location"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "7",
+      "N": "10",
+      "Overall Location": "Fork",
+      "Ko": "소녀의 눈이 금새 \"바보, 바보,\" 할 것만 같았다.",
+      "En": "A look reading \"foolish, foolish\" seemed to have flashed over the girl's face."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "1",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "Path",
+      "Ko": "<a id =\"ricePaddy1_ko\"  class=\"highlight ricePaddy\">논</a> <a id =\"pathThroughRicePaddy1_ko\"  class=\"highlight pathThroughRicePaddy\">사잇길</a>로 들어섰다.",
+      "En": "They went down the <a id =\"pathThroughRicePaddy1_en\"  class=\"highlight pathThroughRicePaddy\">path</a> through the <a id =\"ricePaddy1_en\"  class=\"highlight ricePaddy\">rice field</a>. ",
+      "Location Addresses in Text": "ricePaddy1_ko, ricePaddy1_en, pathThroughRicePaddy1_ko, pathThroughRicePaddy1_en",
+      "Style Class": "ricePaddy, pathThroughRicePaddy"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "2",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "Rice Harvest",
+      "Ko": "벼 가을걷이하는 곁을 지났다.",
+      "En": "They passed as rice was being harvested."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "3",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "First Scarecrow",
+      "Ko": "<a id =\"scarecrowOne1_ko\"  class=\"highlight scarecrow\">허수아비</a>가 서 있었다. ",
+      "En": "A <a id =\"scarecrowOne1_en\"  class=\"highlight scarecrow\">scarecrow</a> was standing there.",
+      "Location Addresses in Text": "scarecrowOne1_ko, scarecrowOne1_en",
+      "Style Class": "scarecrow",
+      "Type of Location (Add additional Style)": "Noted as a landmark. "
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "4",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "First Scarecrow",
+      "Ko": "소년이 새끼줄을 흔들었다.",
+      "En": "The boy ruffled the straw."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "5",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "First Scarecrow",
+      "Ko": "참새가 몇 마리 날아간다.",
+      "En": "A group of sparrows flew by."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "6",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "First Scarecrow",
+      "Ko": "\"참, 오늘은 일찍 집으로 돌아가 텃논의 참새를 봐야 할걸.\" 하는 생각이 든다.",
+      "En": "The boy thought, \"Man, I may need to go home early today and watch out for the sparrows in the rice paddy near home.”"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "7",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "First Scarecrow",
+      "Ko": "\"야, 재밌다!\"",
+      "En": "\"This is fun!\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "8",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "First Scarecrow",
+      "Ko": "소녀가 <a id =\"scarecrowOne2_ko\"  class=\"highlight scarecrow\">허수아비</a> 줄을 잡더니 흔들어 댄다.",
+      "En": "The girl grabbed the <a id =\"scarecrowOne2_en\"  class=\"highlight scarecrow\">scarecrow</a>'s straw and gave it a shake.",
+      "Location Addresses in Text": "scarecrowOne2_ko, scarecrowOne2_en",
+      "Style Class": "scarecrow"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "9",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "First Scarecrow",
+      "Ko": "<a id =\"scarecrowOne3_ko\"  class=\"highlight scarecrow\">허수아비</a>가 자꾸 우쭐거리며 춤을 춘다.",
+      "En": "The <a id =\"scarecrowOne3_en\"  class=\"highlight scarecrow\">scarecrow</a> swayed as though it were dancing.",
+      "Location Addresses in Text": "scarecrowOne3_ko, scarecrowOne3_en",
+      "Style Class": "scarecrow"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "10",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "First Scarecrow",
+      "Ko": "소녀의 왼쪽 볼에 살포시 보조개가 패었다.",
+      "En": "A dimple subtly appeared on the girl's left cheek."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "11",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "First Scarecrow",
+      "Ko": "저만큼 <a id =\"scarecrowTwo1_ko\"  class=\"highlight scarecrow\">허수아비</a>가 또 서 있었다.",
+      "En": "The <a id =\"scarecrowTwo1_ko\"  class=\"highlight scarecrow\">scarecrow</a> slowly resumed it's standing position.",
+      "Location Addresses in Text": "scarecrowTwo1_ko, scarecrowTwo1_en",
+      "Style Class": "scarecrow"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "12",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "To the Second Screcrow",
+      "Ko": "소녀가 그리로 달려간다.",
+      "En": "The girl took off running there.",
+      "Type of Location (Add additional Style)": "Changed the translation. 그리로 = to that place"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "13",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "To the Second Screcrow",
+      "Ko": "그 뒤를 소년도 달렸다.",
+      "En": "The boy ran after her."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "14",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "To the Second Screcrow",
+      "Ko": "오늘 같은 날은 일찍 집으로 돌아가 집안일을 도와야 한다는 생각을 잊어버리기라도 하려는 듯이.",
+      "En": "It was as though the he forgot that he was supposed to help with house chores when returning home early on days like this."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "15",
+      "Overall Location": "Rice Field",
+      "Ko": "소녀의 곁을 스쳐 그냥 달린다.",
+      "En": "He brushed past the girl as he kept running."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "16",
+      "Overall Location": "Rice Field",
+      "Ko": "메뚜기가 따끔따끔 얼굴에 와 부딪친다.",
+      "En": "A locust stung his face.",
+      "Uncertainty": "A little uncertain. In the field "
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "17",
+      "Overall Location": "Rice Field",
+      "Ko": "쪽빛으로 한껏 갠 가을 하늘이 소년의 눈앞에서 맴을 돈다.",
+      "En": "The light of the autumn sky causes the boy to see stars."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "18",
+      "Overall Location": "Rice Field",
+      "Ko": "어지럽다.",
+      "En": "He feels dizzy."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "19",
+      "Overall Location": "Rice Field",
+      "Ko": "저놈의 독수리, 저놈의 독수리, 저놈의 독수리가 맴을 돌고 있기 때문이다.",
+      "En": "It's because that eagle, that eagle, that eagle is circling."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "20",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "Second Scarecrow",
+      "Ko": "돌아다보니, 소녀는 지금 자기가 지나쳐 온 <a id =\"scarecrowTwo2_ko\"  class=\"highlight scarecrow\">허수아비</a>를 흔들고 있다.",
+      "En": "Looking back, the girl is shaking the <a id =\"scarecrowTwo2_en\"  class=\"highlight scarecrow\">scarecrow</a> that she is passing by.",
+      "Location Addresses in Text": "scarecrowTwo2_ko, scarecrowTwo2_en",
+      "Style Class": "scarecrow"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "8",
+      "N": "21",
+      "Overall Location": "Rice Field",
+      "Detailed Location": "Second Scarecrow",
+      "Ko": "<a id =\"scarecrowOne4_ko\"  class=\"highlight scarecrow\">좀 전 허수아비</a>보다 더 우쭐거린다.",
+      "En": "This scarecrow sways more than the <a id =\"scarecrowOne4_en\"  class=\"highlight scarecrow\">first one</a>.",
+      "Location Addresses in Text": "scarecrowOne4_ko, scarecrowOne4_en",
+      "Style Class": "scarecrow"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "1",
+      "Overall Location": "Ditch",
+      "Ko": "<a id =\"ricePaddy2_ko\"  class=\"highlight ricePaddy\">논</a>이 끝난 곳에 <a id =\"ditch1_ko\"  class=\"highlight ditch\">도랑</a>이 하나 있었다.",
+      "En": "There was a <a id =\"ditch1_en\" class=\"highlight ditch\">ditch</a> at the end of the <a id =\"ricePaddy2_en\" class=\"highlight ricePaddy\">rice field</a>.",
+      "Location Addresses in Text": "ditch1_ko, ditch1_en, ricePaddy2_ko, ricePaddy2_en",
+      "Style Class": "ditch, ricePaddy"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "2",
+      "Overall Location": "Ditch",
+      "Ko": "소녀가 먼저 뛰어 건넜다.",
+      "En": "The girl crossed over it first."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "3",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "거기서부터 <a id =\"mountain2_ko\" class=\"highlight mountain\">산</a> 밑까지는 <a id =\"field2_ko\"  class=\"highlight field\">밭</a>이었다.",
+      "En": "There was a <a id =\"field2_ko\"  class=\"highlight field\">field</a> from there to the foot of the <a id =\"mountain2_ko\" class=\"highlight mountain\">mountain</a>.",
+      "Location Addresses in Text": "field2_ko, field2_en, mountain2_ko, mountain2_en",
+      "Style Class": "field, mountain"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "4",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "<a id =\"sorghumBundle1_ko\"  class=\"highlight sorghumBundle\">수숫단을 세워 놓은 <a id =\"field3_ko\"  class=\"highlight field\">밭</a>머리를 지났다.",
+      "En": "They took a few steps through the top of the <a id =\"field3_en\"  class=\"highlight field\">field</a> where <a id =\"sorghumBundle1_en\"  class=\"highlight sorghumBundle\">bundles of sorghum</a> stood by.",
+      "Location Addresses in Text": "field3_ko, field3_en, sorghumBundle1_ko, sorghumBundle1_en",
+      "Style Class": "field, sorghumBundle"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "5",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "\"저게 뭐니?\"",
+      "En": "\"What's that?\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "6",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "\"<a id =\"lookoutHut1_ko\"  class=\"highlight lookoutHut\">원두막</a>.\"",
+      "En": "\"It's a <a id =\"lookoutHut1_en\"  class=\"highlight lookoutHut\">lookout hut</a>.\"",
+      "Location Addresses in Text": "lookoutHut1_ko, lookoutHut1_en",
+      "Style Class": "lookoutHut"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "7",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "\"여기 참외, 맛있니?\"",
+      "En": "\"Are the chamoe melons here any good?\"\r\n"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "8",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "\"그럼, 참외 맛도 좋지만 수박 맛은 더 좋다.\"",
+      "En": "\"If you've ever had one.\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "9",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "\"하나 먹어 봤으면.\"",
+      "En": "\"Alright, so, the chamoe melon tastes good, but watermelon tastes better.\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "10",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "소년이 참외 그루에 심은 <a id =\"radishField1_ko\"  class=\"highlight radishField\">무우밭</a>으로 들어가, 무우 두 밑을 뽑아 왔다.",
+      "En": "The boy went into the <a id =\"radishField1_en\"  class=\"highlight radishField\">radish field</a> that was planted into the chamoe melon area and picked up two radishes.",
+      "Location Addresses in Text": "radishField1_ko, radishField1_en",
+      "Style Class": "radishField",
+      "Type of Location (Add additional Style)": "* reference: radish field is Inside the Field before the mountain"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "11",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "아직 밑이 덜 들어 있었다.",
+      "En": "They were not ripe yet. "
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "12",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "잎을 비틀어 팽개친 후, 소녀에게 건넨다.",
+      "En": "He hands one to the girl after twisting off the leaves."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "13",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "그리고는 이렇게 먹어야 한다는 듯이, 먼저 대강이르르 한 입 배물어 낸 다음, 손톱으로 한 돌이 껍질을 벗겨 우쩍 깨문다.",
+      "En": "And as if showing her how to eat them, he first bites into the top, removes the skin with his fingernails, and then takes a larger bite.\r\n"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "14",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "소녀도 따라 했다.",
+      "En": "The girl did the same."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "15",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "그러나, 세 입도 못 먹고,",
+      "En": "But she could only manage three bites."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "16",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "\"아, 맵고 지려.\"",
+      "En": "\"Ah, it's spicy and disgusting.\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "17",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "하며 집어던지고 만다.",
+      "En": "He prepares to throw it out."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "18",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "\"참, 맛 없어 못 먹겠다.\"",
+      "En": "\"Man, I can't eat this. It doesn't taste good.\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "9",
+      "N": "19",
+      "Overall Location": "Field",
+      "Detailed Location": "Field in front of the Mountain",
+      "Ko": "소년이 더 멀리 팽개쳐 버렸다.",
+      "En": "He tossed it far away."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "1",
+      "Overall Location": "Near Mountain",
+      "Ko": "<a id =\"mountain3_ko\" class=\"highlight mountain\">산</a>이 가까워졌다.",
+      "En": "The <a id =\"mountain3_ko\" class=\"highlight mountain\">mountain</a> came closer.",
+      "Location Addresses in Text": "mountain3_ko, mountain3_en",
+      "Style Class": "mountain",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge",
+      "Type of Location (Add additional Style)": "Seen Location from far"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "2",
+      "Overall Location": "Near Mountain",
+      "Ko": "단풍이 눈에 따가웠다.",
+      "En": "Red autumn leaves came into sight.",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "3",
+      "Overall Location": "Near Mountain",
+      "Ko": "\"아야!\"",
+      "En": "\"Ahh!\"",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "4",
+      "Overall Location": "Near Mountain",
+      "Ko": "소녀가 <a id =\"mountain4_ko\" class=\"highlight mountain\">산</a>을 향해 달려갔다.",
+      "En": "The girl ran toward the <a id =\"mountain4_en\" class=\"highlight mountain\">mountain</a>.",
+      "Location Addresses in Text": "mountain4_ko, mountain4_en",
+      "Style Class": "mountain",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge",
+      "Type of Location (Add additional Style)": "Seen Location from close"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "5",
+      "Overall Location": "Near Mountain",
+      "Ko": "이번은 소년이 뒤따라 달리지 않았다.",
+      "En": "This time around, the boy didn't run behind her.",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "6",
+      "Overall Location": "Near Mountain",
+      "Ko": "그러고도 곧 소녀보다 더 많은 꽃을 꺾었다.",
+      "En": "And soon, he'd picked more flowers than she did.",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "7",
+      "Overall Location": "Near Mountain",
+      "Ko": "이게 들국화, 이게 싸리꽃, 이게 도라지꽃,... ....",
+      "En": "This is wild chrysanthemum, this is bush clover, this is bellflower.",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "8",
+      "Overall Location": "Near Mountain",
+      "Ko": "도라지꽃이 이렇게 예쁜 줄은 몰랐네. 난 보랏빛이 좋아!... ... 그런데, 이 양산 같이 생긴 노란 꽃이 뭐지?",
+      "En": "I didn't know that bellflower was this pretty. I like violet! But what's this yellow, parasol-like flower?",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "9",
+      "Overall Location": "Near Mountain",
+      "Ko": "마타리꽃.",
+      "En": "Golden valerian.",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "10",
+      "Overall Location": "Near Mountain",
+      "Ko": "소녀는 마타리꽃을 양산 받듯이 해 보인다.",
+      "En": "The girl tries to see the valerian’s resemblance to a parasol.",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "11",
+      "Overall Location": "Near Mountain",
+      "Ko": "약간 상기된 얼굴에 살포시 보조개를 떠올리며.",
+      "En": "The slight dimple resurfaced on her face.",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "12",
+      "Overall Location": "Near Mountain",
+      "Ko": "다시 소년은 꽃 한 옴큼을 꺾어 왔다.",
+      "En": "The boy grabbed another bundle of flowers.",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "13",
+      "Overall Location": "Near Mountain",
+      "Ko": "싱싱한 꽃가지만 골라 소녀에게 건넨다.",
+      "En": "He selected the freshest from the bunch to give to the girl.\r\n",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "10",
+      "N": "14",
+      "Overall Location": "Near Mountain",
+      "Ko": "그러나 소녀는 \"하나도 버리지 마라.\"",
+      "En": "However, the girl said, \"Keep them.\"",
+      "Uncertainty": "A bit Uncertain: somewhere between the near mountain and the ridge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "1",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "<a id =\"mountainRidge1_ko\" class=\"highlight mountainRidge\">산마루</a>께로 올라갔다.",
+      "En": "They went up the <a id =\"mountainRidge1_en\" class=\"highlight mountainRidge\">mountain ridge</a>.",
+      "Location Addresses in Text": "mountainRidge1_ko, mountainRidge1_en",
+      "Style Class": "mountainRidge"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "2",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "<a id =\"otherValley1_ko\" class=\"highlight otherValley\">맞은편 골짜기</a>에 오순도순 <a id =\"thatchedRoofHuts1_ko\" class=\"highlight thatchedRoofHuts\">초가집</a>이 몇 모여 있었다.",
+      "En": "<a id =\"thatchedRoofHuts1_en\" class=\"highlight thatchedRoofHuts\">A group of thatched roof huts</a> were gathered in the <a id =\"otherValley1_en\" class=\"highlight otherValley\">valley on the other side</a>.",
+      "Location Addresses in Text": "otherValley1_ko, otherValley1_en, thatchedRoofHuts1_ko, thatchedRoofHuts1_en",
+      "Type of Location (Add additional Style)": "Seen from where they are."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "3",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "누가 말할 것도 아닌데, <a id =\"largeRock1_ko\" class=\"highlight largeRock\">바위</a>에 나란히 걸터앉았다.",
+      "En": "They sat side-by-side on a <a id =\"largeRock1_en\" class=\"highlight largeRock\">large rock</a> without saying a word.",
+      "Location Addresses in Text": "largeRock1_ko, largeRock1_en",
+      "Style Class": "largeRock",
+      "Type of Location (Add additional Style)": "Landmark"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "4",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "유달리 주위가 조용해진 것 같았다.",
+      "En": "The surroundings seemed to have grown unusually quiet."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "5",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "따가운 가을 햇살만이 말라가는 풀 냄새를 퍼뜨리고 있었다.",
+      "En": "Only the blazing autumn sun was diffusing the fragrance of the dried grass."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "6",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "\"저건 또 무슨 꽃이지?\"",
+      "En": "\"What kind of flower is that?\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "7",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "적잖이 <a id =\"slope1_ko\" class=\"highlight slope\">비탈진 곳</a>에 칡덩굴이 엉키어 꽃을 달고 있었다.",
+      "En": "In a rather <a id =\"slope1_en\" class=\"highlight slope\">steep part</a>, the arrowroot was entangled with a flower.",
+      "Location Addresses in Text": "slope1_ko, slope1_en",
+      "Style Class": "slope"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "8",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "\"꼭 등꽃 같네. <a id=\"seoul3_ko\" class=\"highlight seoul\\>서울</a> 우리 학교에 큰 등나무가 있었단다. 저 꽃을 보니까 등나무 밑에서 놀던 동무들 생각이 난다.\"",
+      "En": "\"It looks just like a wisteria vine. There was a big wisteria vine back at my school in <a id=\"seoul3_en\" class=\"highlight seoul\\>Seoul</a>. Seeing that flower reminds me of the classmates that I used to play with beneath the wisteria vine.\"",
+      "Location Addresses in Text": "seoul3_ko, seoul3_en",
+      "Style Class": "seoul",
+      "Type of Location (Add additional Style)": "Seoul, as a referred location"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "9",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Slope",
+      "Ko": "소녀가 조용히 일어나 <a id =\"slope2_ko\" class=\"highlight slope\">비탈진 곳</a>으로 간다.",
+      "En": "The girl stands silently and starts toward the <a id =\"slope2_en\" class=\"highlight slope\">slope</a>.",
+      "Location Addresses in Text": "slope2_ko, slope2_en",
+      "Style Class": "slope"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "10",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Slope",
+      "Ko": "꽃송이가 많이 달린 줄기를 잡고 끊기 시작한다,",
+      "En": "She grabbed the stem with many flowers and began cutting it off."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "11",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Slope",
+      "Ko": "좀처럼 끊어지지 않는다.",
+      "En": "The stem put up a good fight."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "12",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Slope",
+      "Ko": "안간힘을 쓰다가 그만 미끄러지고 만다.",
+      "En": "The girl nearly slipped."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "13",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Slope",
+      "Ko": "칡덩굴을 그러쥐었다.",
+      "En": "She took hold of the arrowroot."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "14",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Slope",
+      "Ko": "소년이 놀라 달려갔다.",
+      "En": "The boy rushed off in surprise."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "15",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Slope",
+      "Ko": "소녀가 손을 내밀었다.",
+      "En": "The girl stretched out her hand."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "16",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Slope",
+      "Ko": "손을 잡아 이끌어 올리며, 소년은 제가 꺾어다 줄 것을 잘못했다고 뉘우친다.",
+      "En": "Holding her hand to get to his feet, the boy regrets that he should have picked them up for her."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "17",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "소녀의 오른쪽 무릎에 핏방울이 내맺혔다.",
+      "En": "Spots of blood appeared on the girl's right knee"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "18",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "소년은 저도 모르게 생채기에 입술을 가져다 대고 빨기 시작했다.",
+      "En": "Before he realized, the boy brought his mouth to the scratch and cleaned it."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "19",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "그러다가, 무슨 생각을 했는지 홱 일어나 저 쪽으로 달려간다.",
+      "En": "A thought occurred to him. He raised up suddenly and ran off. "
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "20",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "좀 만에 숨이 차 돌아온 소년은",
+      "En": "He returned once he caught his breath."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "21",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Mountain Ridge",
+      "Ko": "\"이걸 바르면 낫는다.\"",
+      "En": "\"This will help it to heal quickly.\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "11",
+      "N": "22",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Slope / Mountain Ridge",
+      "Ko": "송진을 생채기에다 문질러 바르고는 그 달음으로 <a id =\"slope3_ko\" class=\"highlight slope\">칡덩굴 있는 데</a>로 내려가, 꽃 많이 달린 몇 줄기를 이빨로 끊어 가지고 올라온다.",
+      "En": "He rubbed sap on the scratch, then came down <a id =\"slope3_en\" class=\"highlight slope\">to the arrowroot</a>, carrying a few vines in his teeth.",
+      "Location Addresses in Text": "slope3_ko, slope3_en",
+      "Style Class": "slope"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "1",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "그리고는, \"저기 송아지가 있다. 그리 가 보자.\"",
+      "En": "\"There's a calf over there. Let's go see it.\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "2",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "누렁송아지였다.",
+      "En": "It was a yellow calf."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "3",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "아직 코뚜레도 꿰지 않았다.",
+      "En": "It didn't have a nose ring yet."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "4",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "소년이 고삐를 바투 잡아 쥐고 등을 긁어 주는 체 훌쩍 올라탔다.",
+      "En": "The boy grabbed the bridle and clawed his way up onto the calf's back. "
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "5",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "송아지가 껑충 거리며 돌아간다.",
+      "En": "The calf turns back prancing."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "6",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "소녀의 흰 얼굴이, 분홍 스웨터가, 남색 스커트가, 안고 있는 꽃과 함께 범벅이 된다.",
+      "En": "The girl's fair face, pink sweater, and navy skirt blurred together with the flowers that she was holding."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "7",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "모두가 하나의 큰 꽃묶음 같다.",
+      "En": "It all looked like one great big bouquet."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "8",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "어지럽다.",
+      "En": "The boy felt dizzy."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "9",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "그러나, 내리지 않으리라.",
+      "En": "But he would not dismount."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "10",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "자랑스러웠다.",
+      "En": "That made him proud."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "11",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "이것만은 소녀가 흉내 내지 못할, 자기 혼자만이 할 수 있는 일인 것이다.",
+      "En": "This was something that the girl couldn't imitate. Something that only he was capable of."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "12",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "\"너희, 예서 뭣들 하느냐?\"",
+      "En": "\"What are you all doing here?\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "13",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "농부(農夫)하나가 억새풀 사이로 올라왔다.",
+      "En": "A farmer came up through the silver grass."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "14",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "송아지 등에서 뛰어내렸다.",
+      "En": "The boy jumped off of the calf's back."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "15",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "어린 송아지를 타서 허리가 상하면 어쩌느냐고 꾸지람을 들을 것만 같다.",
+      "En": "He thought he'd get scolded for injuring the calf by riding on its back.\r\n"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "16",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "그런데, 나룻이 긴 농부는 소녀 편을 한 번 훑어보고는 그저 송아지 고삐를 플어 내면서,",
+      "En": "But the long-bearded farmer scanned the girl's side and let the calf go, saying,"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "17",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "\"어서들 집으로 가거라. 소나기가 올라.\"",
+      "En": "\"Hurry on home. A rain shower's coming.\""
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "18",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "참, 먹장구름 한 장이 머리 위에 와 있다.",
+      "En": "A dark cloud hovered above."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "19",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "갑자기 사면이 소란스러워진 것 같다.",
+      "En": "Suddenly, the mountainside seemed to become noisy."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "20",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "바람이 우수수 소리를 내며 지나간다.",
+      "En": "A rustling wind passed by."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "12",
+      "N": "21",
+      "Overall Location": "Mountain",
+      "Detailed Location": "Somewhere in the Mountain",
+      "Ko": "삽시간에 주위가 보랏빛으로 변했다.",
+      "En": "In an instant, everything around them became violet."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "1",
+      "Overall Location": "Down the Mountain",
+      "Ko": "<a id =\"mountain5_ko\" class=\"highlight mountain\">산</a>을 내려오는데, 떡갈나무 잎에서 빗방울 듣는 소리가 낸다.",
+      "En": "When they descended the <a id =\"mountain5_en\" class=\"highlight mountain\">mountain</a>, they heard raindrops dripping from an oak leaf.",
+      "Location Addresses in Text": "mountain5_ko, mountain5_en",
+      "Style Class": "mountain"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "2",
+      "Overall Location": "Down the Mountain",
+      "Ko": "굵은 빗방울이었다.",
+      "En": "The raindrops were thick."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "3",
+      "Overall Location": "Down the Mountain",
+      "Ko": "목덜미가 선뜻던뜻했다.",
+      "En": "The nape of the boy's neck felt fresh."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "4",
+      "Overall Location": "Down the Mountain",
+      "Ko": "그러자, 대번에 눈앞을 가로막는 빗줄기.",
+      "En": "Then immediately a drop of rain fell before their eyes."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "5",
+      "Overall Location": "Down the Mountain",
+      "Ko": "비안개 속에 <a id =\"lookoutHut2_ko\"  class=\"highlight lookoutHut\">원두막</a>이 보였다,",
+      "En": "They saw the <a id =\"lookoutHut2_en\"  class=\"highlight lookoutHut\">lookout hut</a> through the misty rain.",
+      "Location Addresses in Text": "lookoutHut2_ko, lookoutHut2_en",
+      "Style Class": "lookoutHut"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "6",
+      "Overall Location": "Down the Mountain",
+      "Ko": "그리로 가 비를 그을 수밖에.",
+      "En": "There was no other choice but to dodge the rain."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "7",
+      "Overall Location": "Lookout Hut",
+      "Ko": "그러나, <a id =\"lookoutHut3_ko\"  class=\"highlight lookoutHut\">원두막</a>은 기둥이 기울고 지붕도 갈래갈래 찢어져 있었다.",
+      "En": "But one of the <a id =\"lookoutHut3_en\"  class=\"highlight lookoutHut\">hut</a>'s pillars was tilted, and the roof was crumbling to pieces.",
+      "Location Addresses in Text": "lookoutHut3_ko, lookoutHut3_en",
+      "Style Class": "lookoutHut"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "8",
+      "Overall Location": "Lookout Hut",
+      "Ko": "그런 대로 비가 덜 새는 곳을 가려 소녀를 들어서게 했다.",
+      "En": "So, the girl entered a shelter that did not have as big of a leak."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "9",
+      "Overall Location": "Lookout Hut",
+      "Ko": "소녀의 입술이 파아랗게 질렸다.",
+      "En": "Her lips went pale."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "10",
+      "Overall Location": "Lookout Hut",
+      "Ko": "어깨를 자꾸 떨었다.",
+      "En": "She kept shivering."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "11",
+      "Overall Location": "Lookout Hut",
+      "Ko": "무명 겹저고리를 벗어 소녀의 어깨를 싸 주었다.",
+      "En": "The boy removed his cotton jacket and draped it over her shoulders."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "12",
+      "Overall Location": "Lookout Hut",
+      "Ko": "소녀는 비에 젖은 눈을 들어 한 번 쳐다보았을 뿐, 소년이 하는 대로 잠자코 있었다.",
+      "En": "The girl wordlessly lifted her gaze to look at him as he did so."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "13",
+      "Overall Location": "Lookout Hut",
+      "Ko": "그리고는, 안고 있는 꽃묶음 속에서 가지가 꺾이고 꽃이 일그러진 송이를 골라 발 밑에 버린다.",
+      "En": "Within he bouquet, branches were broken and flowers were twisted, so they are tossed beneath her feet."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "14",
+      "Overall Location": "Lookout Hut",
+      "Ko": "소녀가 들어선 곳도 비가 새기 시작했다.",
+      "En": "The rain began to pick up near the girl's resting place."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "13",
+      "N": "15",
+      "Overall Location": "Lookout Hut",
+      "Ko": "더 거기서 비를 그을 수 없었다.",
+      "En": "They could not stay there any longer."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "1",
+      "Overall Location": "Sorghum Field",
+      "Ko": "밖에 내다보던 소년이 무엇을 생각하는지 <a id =\"sorghumField1_ko\" class=\"highlight sorghumField\">수수밭</a> 쪽으로 달려간다.",
+      "En": "After looking outside, the boy runs toward the <a id =\"sorghumField1_en\" class=\"highlight sorghumField\">sorghum fields</a>. ",
+      "Location Addresses in Text": "sorghumField1_ko, sorghumField1_en",
+      "Style Class": "sorghumField"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "2",
+      "Overall Location": "Sorghum Field",
+      "Ko": "세워 놓은 <a id =\"sorghumBundle2_ko\"  class=\"highlight sorghumBundle\">수숫단</a> 속을 비집어 보더니, 옆의 <a id =\"sorghumBundle3_ko\"  class=\"highlight sorghumBundle\">수숫단</a>을 날라다 덧세우다.",
+      "En": "He dodged his way through the <a id =\"sorghumBundle2_en\"  class=\"highlight sorghumBundle\">sorghum stalks</a>, realigning <a id =\"sorghumBundle3_en\"  class=\"highlight sorghumBundle\">ones</a> that he'd knocked down in passing.",
+      "Location Addresses in Text": "sorghumBundle2_ko, sorghumBundle2_en, sorghumBundle3_ko, sorghumBundle3_en",
+      "Style Class": "sorghumBundle"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "3",
+      "Overall Location": "Sorghum Field",
+      "Ko": "다시 속을 비집어 본다.",
+      "En": "He continued shuffling through."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "4",
+      "Overall Location": "Sorghum Field",
+      "Ko": "그리고는 이쪽을 향해 손짓을 한다.",
+      "En": "And he gestured in this direction."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "5",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "<a id =\"sorghumBundle4_ko\"  class=\"highlight sorghumBundle\">수숫단</a> 속은 비는 안 새었다.",
+      "En": "<a id =\"sorghumBundle4_en\"  class=\"highlight sorghumBundle\">The sorghum stalks</a> sheltered the girl from the rain.",
+      "Location Addresses in Text": "sorghumBundle4_ko, sorghumBundle4_en",
+      "Style Class": "sorghumBundle"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "6",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "그저 어둡고 좁은 게 안 됐다.",
+      "En": "Unfortunately, it was much too dark and narrow."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "7",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "앞에 나앉은 소년은 그냥 비를 맞아야만 했다.",
+      "En": "The boy, leading from the front, just had to endure the rain."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "8",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "그런 소년의 어깨에서 김이 올랐다.",
+      "En": "Steam rose from his shoulders."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "9",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "소녀가 속삭이듯이, 이리 들어와 앉으라고 했다.",
+      "En": "The girl whispered for him to come in and sit."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "10",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "괜찮다고 했다.",
+      "En": "The boy said it was fine."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "11",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "소녀가 다시, 들어와 앉으라고 했다.",
+      "En": "Again, she told him to come in and sit."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "12",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "할 수 없이 뒷걸음질 쳤다.",
+      "En": "He couldn't help but take a step back."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "13",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "그 바람에, 소녀가 안고 있는 꽃묶음이 망그러졌다.",
+      "En": "Because of that, the flowers that the girl was holding were ruined."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "14",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "그러나, 소녀는 상관없다고 생각했다.",
+      "En": "Yet she didn't think twice about it."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "15",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "비에 젖은 소녀의 몸 내음새가 확 코에 끼얹혀졌다.",
+      "En": "The smell of the boy's soaked body filled her nose."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "16",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "그러나, 고개를 돌리지 않았다.",
+      "En": "Bust she didn't flinch."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "14",
+      "N": "17",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "도리어 소녀의 몸기운으로 해서 떨리던 몸이 적이 누그러지는 느낌이었다.",
+      "En": "Rather, the boy's energy made her feel that the trembling of her body had subsided."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "15",
+      "N": "1",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "소란하던 수숫잎 소리가 뚝 그쳤다.",
+      "En": "The rustling of the sorghum leaves suddenly ceased."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "15",
+      "N": "2",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Sorghum Stalk (Bundle)",
+      "Ko": "밖이 멀개졌다.",
+      "En": "The rain began to lift."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "15",
+      "N": "3",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Somwhere in the Field",
+      "Ko": "<a id =\"sorghumBundle5_ko\"  class=\"highlight sorghumBundle\">수숫단</a> 속을 벗어 나왔다.",
+      "En": "They emerged from the depths of the <a id =\"sorghumBundle5_en\"  class=\"highlight sorghumBundle\">sorghum stalks</a>.",
+      "Location Addresses in Text": "sorghumBundle5_ko, sorghumBundle5_en",
+      "Style Class": "sorghumBundle"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "15",
+      "N": "4",
+      "Overall Location": "Sorghum Field",
+      "Detailed Location": "Somwhere in the Field",
+      "Ko": "멀지 않은 앞쪽에 햇빛이 눈부시게 내리붓고 있었다.",
+      "En": "Not too far ahead, sunlight was radiating from the sky."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "15",
+      "N": "5",
+      "Overall Location": "Ditch",
+      "Ko": "<a id =\"ditch2_ko\"  class=\"highlight ditch\">도랑</a> 있는 곳까지 와 보니, 엄청나게 물이 불어 있었다.",
+      "En": "When they made it all the way to the <a id =\"ditch2_en\"  class=\"highlight ditch\">ditch</a>, it was flooded with water.",
+      "Location Addresses in Text": "ditch2_ko, ditch2_en",
+      "Style Class": "ditch"
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "15",
+      "N": "6",
+      "Overall Location": "Ditch",
+      "Ko": "빛마저 제법 붉은 흙탕물이었다.",
+      "En": "Even the clearest part of the water was a muddy red."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "15",
+      "N": "7",
+      "Overall Location": "Ditch",
+      "Ko": "뛰어 건널 수가 없었다.",
+      "En": "They couldn't cross the ditch."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "15",
+      "N": "8",
+      "Overall Location": "Ditch",
+      "Ko": "소년이 등을 돌려 됐다.",
+      "En": "The boy turned around and offered his back."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "15",
+      "N": "9",
+      "Overall Location": "Ditch",
+      "Ko": "소녀가 순순히 업히었다.",
+      "En": "The girl meekly accepted the piggyback ride."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "15",
+      "N": "10",
+      "Overall Location": "Ditch",
+      "Ko": "걷어올린 소년의 잠방이까지 물이 올라왔다.",
+      "En": "The flood waters reached up to the girl's jacket."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "15",
+      "N": "11",
+      "Overall Location": "Ditch",
+      "Ko": "소녀는 '어머나'소리를 지르며 소년의 목을 끌어안았다.",
+      "En": "She cried, \"oh my goodness!\" and clutched the boy's neck."
+  },
+  {
+      "__7 sections": "4",
+      "Segment": "15",
+      "N": "12",
+      "Overall Location": "Somewhere Before The Creek",
+      "Ko": "<a id=\"creek8_ko\" class=\"highlight creek\">개울가</a>에 다다르기 전에, 가을 하늘이 언제 그랬는가 싶게 구름 한 점 없이 쪽빛으로 개어 있었다.",
+      "En": "The autumn sky was so clear and cloudless on their way to the <a id=\"creek8_en\" class=\"highlight creek\">creek</a>.",
+      "Location Addresses in Text": "creek8_ko, creek8_en",
+      "Style Class": "creek",
+      "Uncertainty": "Uncertain location"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "16",
+      "N": "1",
+      "Overall Location": "Creek",
+      "Ko": "그 뒤로 소녀의 모습은 뵈지 않았다.",
+      "En": "The boy didn't see the girl after that."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "16",
+      "N": "2",
+      "Overall Location": "Creek",
+      "Ko": "매일같이 <a id=\"creek9_ko\" class=\"highlight creek\">개울가</a>로 달려와 봐도 뵈지 않았다.",
+      "En": "Not even when he ran to the <a id=\"creek9_en\" class=\"highlight creek\">creek</a> what seemed like every day.",
+      "Location Addresses in Text": "creek9_ko, creek9_en",
+      "Style Class": "creek"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "16",
+      "N": "3",
+      "Overall Location": "School",
+      "Ko": "<a id=\"school2_ko\" class=\"highlight school\">학교</a>에서 쉬는 시간에 <a id=\"schoolPlayground1_ko\" class=\"highlight schoolPlayground\">운동장</a>을 살피기도 했다.",
+      "En": "During free time at <a id=\"school2_en\" class=\"highlight school\">school</a>, he scanned the <a id=\"schoolPlayground1_en\" class=\"highlight schoolPlayground\">schoolyard</a>.",
+      "Location Addresses in Text": "school2_ko, school2_en, schoolPlayground1_ko, schoolPlayground1_en",
+      "Style Class": "school, schoolPlayground",
+      "Type of Location (Add additional Style)": "School - playground, classroom"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "16",
+      "N": "4",
+      "Overall Location": "School",
+      "Ko": "남 몰래 <a id=\"school5thGradeClass1_ko\" class=\"highlight school5thGradeClass\">5학년 여자 반</a>을 엿보기도 했다.",
+      "En": "When no one was around, he peered into the <a id=\"school5thGradeClass1_en\" class=\"highlight school5thGradeClass\">girls' 5th grade class</a>.",
+      "Location Addresses in Text": "school5thGradeClass1_ko, school5thGradeClass1_en",
+      "Style Class": "school5thGradeClass"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "16",
+      "N": "5",
+      "Overall Location": "School",
+      "Ko": "그러나, 뵈지 않았다.",
+      "En": "But the girl was nowhere to be found."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "1",
+      "Overall Location": "Creek",
+      "Ko": "그날도 소년은 주머니 속 흰 조약돌만 만지작거리며 <a id=\"creek10_ko\" class=\"highlight creek\">개울</a>가로 나왔다.",
+      "En": "That day as well, the boy arrived to the <a id=\"creek10_en\" class=\"highlight creek\">creek</a>, touching the white pebble in his pocket.",
+      "Location Addresses in Text": "creek10_ko, creek10_en",
+      "Style Class": "creek"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "2",
+      "Overall Location": "Creek",
+      "Ko": "그랬더니, 이 쪽 <a id =\"creekBank4_ko\"  class=\"highlight creekBank\">개울둑</a>에 소녀가 앉아 있는 게 아닌가.",
+      "En": "When he got there, he recognized the girl seated along the <a id =\"creekBank4_en\"  class=\"highlight creekBank\">bank</a>.",
+      "Location Addresses in Text": "creekBank4_ko, creekBank4_en",
+      "Style Class": "creekBank"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "3",
+      "Overall Location": "Creek",
+      "Ko": "소년은 가슴부터 두근거렸다.",
+      "En": "His heart jumped."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "4",
+      "Overall Location": "Creek",
+      "Ko": "\"그 동안 앓았다.\"",
+      "En": "\"I've been sick.\""
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "5",
+      "Overall Location": "Creek",
+      "Ko": "어쩐지 소녀의 얼굴이 해쓱해져 있었다.",
+      "En": "No wonder her face looked so worn out."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "6",
+      "Overall Location": "Creek",
+      "Ko": "\"그 날, 소나기 맞은 탓 아냐?\"",
+      "En": "\"Is it because of that day when we were caught in the rain?\""
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "7",
+      "Overall Location": "Creek",
+      "Ko": "소녀가 가만히 고개를 끄덕이었다.",
+      "En": "She nodded silently."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "8",
+      "Overall Location": "Creek",
+      "Ko": "\"인제 다 났냐?\"",
+      "En": "\"Are you better now?\""
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "9",
+      "Overall Location": "Creek",
+      "Ko": "\"아직도... ... .\"",
+      "En": "\"Not yet...\""
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "10",
+      "Overall Location": "Creek",
+      "Ko": "\"그럼, 누워 있어야지.\"",
+      "En": "\"Then, you should be resting.\""
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "11",
+      "Overall Location": "Creek",
+      "Ko": "\"하도 갑갑해서 나왔다. ... ...참, 그 날 재밌었어... ... . 그런데 그 날 어디서 이런 물이 들었는지 잘 지지 않는다.\"",
+      "En": "“I was going stir crazy… Man, that day was fun…but this stain that came out of nowhere wouldn't come out. "
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "12",
+      "Overall Location": "Creek",
+      "Ko": "소녀가 분홍 스웨터 앞자락을 내려다본다.",
+      "En": "She looked down at the front of her pink sweater."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "13",
+      "Overall Location": "Creek",
+      "Ko": "거기에 검붉은 진흙물 같은 게 들어 있었다.",
+      "En": "It carried a dark red stain resembling that muddy water."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "14",
+      "Overall Location": "Creek",
+      "Ko": "소녀가 가만히 보조개를 떠올리며, \"그래 이게 무슨 물 같니?\"",
+      "En": "Her dimple reappeared as she asked, \"What does this stain look like to you?\""
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "15",
+      "Overall Location": "Creek",
+      "Ko": "소년은 스웨터 앞자락만 바라보고 있었다.",
+      "En": "The boy was gazing at the front of her sweater."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "16",
+      "Overall Location": "Creek",
+      "Ko": "\"내, 생각해 냈다. 그 날, <a id =\"ditch3_ko\"  class=\"highlight ditch\">도랑</a>을 건너면서 내가 업힌 일이 있지? 그 때, 네 등에서 옮은 물이다.\"",
+      "En": "“I remember.  Do you recall carrying me piggyback across the <a id =\"ditch3_en\"  class=\"highlight ditch\">ditch</a>? It’s the color picked up from your back. \n",
+      "Location Addresses in Text": "ditch3_ko, ditch3_en",
+      "Style Class": "ditch"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "17",
+      "N": "17",
+      "Overall Location": "Creek",
+      "Ko": "소년은 얼굴이 확 달아오름을 느꼈다.",
+      "En": "He felt his face flush."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "1",
+      "Overall Location": "Fork",
+      "Ko": "<a id =\"fork2_ko\" class=\"highlight fork\">갈림길</a>에서 소녀는, \"저, 오늘 아침에 <a id =\"girlsHouse1_ko\" class=\"highlight girlsHouse\">우리 집</a>에서 대추를 땄다. 낼 제사 지내려고... ... .\"",
+      "En": "At the <a id =\"fork2_en\" class=\"highlight fork\">crossroads</a>, the girl said, \"So, we picked some jujubes this morning over at <a id =\"girlsHouse1_en\" class=\"highlight girlsHouse\">my house</a>. Because tomorrow we're holding a memorial service...\"",
+      "Location Addresses in Text": "fork2_ko, fork2_en, girlsHouse1_ko, girlsHouse1_en",
+      "Style Class": "fork, girlsHouse",
+      "Type of Location (Add additional Style)": "Girl's place is Mentioned as a reference"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "2",
+      "Overall Location": "Fork",
+      "Ko": "대추 한 줌을 내준다.",
+      "En": "She hands him a fistful of jujubes."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "3",
+      "Overall Location": "Fork",
+      "Ko": "소년은 주춤한다.",
+      "En": "The boy hesitates."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "4",
+      "Overall Location": "Fork",
+      "Ko": "\"맛봐라. 우리 증조(曾祖)할아버지가 심었다는데, 아주 달다.\"",
+      "En": "\"Taste it. They're very sweet because my great grandfather planted them himself.\""
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "5",
+      "Overall Location": "Fork",
+      "Ko": "소년은 두 손을 오그려 내밀며, \"참, 알도 굵다!\"",
+      "En": "The boy stretched out both hands and exclaimed, \"Wow, they're big!\""
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "6",
+      "Overall Location": "Fork",
+      "Ko": "\"그리고 저, 우리 이번에 제사 지내고 나서 좀 있다, <a id =\"girlsHouse2_ko\" class=\"highlight girlsHouse\">집</a>을 내주게 됐다.\"",
+      "En": "\"And, uh, after the service, we're letting go of the <a id =\"girlsHouse2_en\" class=\"highlight girlsHouse\">house</a>.\"",
+      "Location Addresses in Text": "girlsHouse2_ko, girlsHouse2_en",
+      "Style Class": "girlsHouse",
+      "Type of Location (Add additional Style)": "Girl's place is Mentioned as a reference"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "7",
+      "Overall Location": "Fork",
+      "Ko": "소년은 소녀네가 이사해 오기 전에 벌써 어른들의 이야기를 들어서, 윤 초시 손자(孫子)가 <a id=\"seoul4_ko\" class=\"highlight seoul\\>서울</a>서 사업에 실패해 가지고 <a id=\"hometown1_ko\" class=\"highlight countryside\\>고향</a>에 돌아오지 않을 수 없게 되었다는 걸 알고 있었다.",
+      "En": "The boy had already heard from the elders before the girl's family moved back, and was aware that Yoon Cho-si's grandson had to return to <a id=\"hometown1_en\" class=\"highlight countryside\\>hometown</a> due to his failure with the <a id=\"seoul4_en\" class=\"highlight seoul\\>Seoul</a> business.",
+      "Location Addresses in Text": "seoul4_ko, seoul4_en",
+      "Style Class": "seoul",
+      "Type of Location (Add additional Style)": "고향 / 서울 as a referred location",
+      "Additional Note": "Some change in translation. + 고향 = hometown으로 바꿈.."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "8",
+      "Overall Location": "Fork",
+      "Ko": "그것이 이번에는 <a id =\"girlsHouse3_ko\" class=\"highlight girlsHouse\">고향 집</a>마저 남의 손에 넘기게 된 모양이었다.",
+      "En": "They had to go so far as to surrender their <a id =\"girlsHouse3_en\" class=\"highlight girlsHouse\">family home</a> to strangers' hands this time.",
+      "Location Addresses in Text": "girlsHouse3_ko, girlsHouse3_en",
+      "Style Class": "girlsHouse",
+      "Type of Location (Add additional Style)": "The place is Mentioned as a reference"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "9",
+      "Overall Location": "Fork",
+      "Ko": "\"왜 그런지 난 이사 가는 게 싫었다. 어른들이 하는 일이니 어쩔 수 없지만... ... .\"",
+      "En": "\"I don't know why, but I've grown to dislike moving. But what can you do when adults make up their minds...?\""
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "10",
+      "Overall Location": "Fork",
+      "Ko": "전에 없이, 소녀의 까만 눈에 쓸쓸한 빛이 떠돌았다.",
+      "En": "There was a loneliness lingering in her eyes for the first time."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "11",
+      "Overall Location": "Upper Path",
+      "Ko": "<a id =\"upperPath2_ko\" class=\"highlight upperPath\">소녀와 헤어져 돌아오는 길</a>에, 소년은 혼잣속으로, 소녀가 이사를 간다는 말을 수없이 되뇌어 보았다.",
+      "En": "When it was time to <a id =\"upperPath2_en\" class=\"highlight upperPath\">go their separate ways</a>, the boy kept replaying in his mind the fact that the girl was moving.",
+      "Location Addresses in Text": "upperPath2_ko, upperPath2_en",
+      "Style Class": "upperPath"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "12",
+      "Overall Location": "Upper Path",
+      "Ko": "무어 그리 안타까울 것도 서러울 것도 없었다.",
+      "En": "There was nothing to be sad about."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "18",
+      "N": "13",
+      "Overall Location": "Upper Path",
+      "Ko": "그렇건만, 소년은 지금 자기가 씹고 있는 대추알의 단맛을 모르고 있었다.",
+      "En": "Yet, the boy was numb to the sweetness of the jujube that he was chewing.\r\n"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "1",
+      "Overall Location": "Deok Soe's walnut field",
+      "Ko": "이 날 밤, 소년은 몰래 <a id =\"walnutField1_ko\" class=\"highlight walnutField\">덕쇠 할아버지네 호두밭</a>으로 갔다.",
+      "En": "At night, the boy went toward <a id =\"walnutField1_en\" class=\"highlight walnutField\">elder Deok Soe's walnut field</a>.",
+      "Location Addresses in Text": "walnutField1_ko, walnutField1_en",
+      "Style Class": "walnutField"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "2",
+      "Overall Location": "Deok Soe's walnut field",
+      "Ko": "낮에 봐 두었던 나무로 올라갔다.",
+      "En": "He climbed up the tree that he’d picked out during the day."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "3",
+      "Overall Location": "Deok Soe's walnut field",
+      "Ko": "그리고 봐 두었던 가지를 향해 작대기를 내리쳤다.",
+      "En": "And he struck a stick with a branch that he'd been eyeing."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "4",
+      "Overall Location": "Deok Soe's walnut field",
+      "Ko": "호두송이 떨어지는 소리가 별나게 크게 들렸다.",
+      "En": "The sound of falling walnuts was unusually loud."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "5",
+      "Overall Location": "Deok Soe's walnut field",
+      "Ko": "가슴이 선뜩했다.",
+      "En": "His heart raced."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "6",
+      "Overall Location": "Deok Soe's walnut field",
+      "Ko": "그러나 다음 순간, 굵은 호두야 많이 떨어져라, 많이 떨어져라, 저도 모를 힘에 이끌려 마구 작대기를 내리 치는 것이었다.",
+      "En": "In that moment, he swung wildly at the branch, driven by an unknown force, hoping that many of the big walnuts would fall, fall. \n"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "7",
+      "Overall Location": "Return Path",
+      "Ko": "<a id =\"pathFromWalnutField1_ko\" class=\"highlight pathFromWalnutField\">돌아오는 길</a>에는 열 이틀 달이 지우는 <a id =\"shade1_ko\" class=\"highlight shade\">그늘</a>만 골라 디뎠다.",
+      "En": "<a id =\"pathFromWalnutField1_en\" class=\"highlight pathFromWalnutField\">On the way back</a>, he only chose the ever-present <a id =\"shade1_en\" class=\"highlight shade\">shade</a> that was cast by the moon.",
+      "Location Addresses in Text": "pathFromWalnutField1_ko, pathFromWalnutField1_en, shade1_ko, shade1_en",
+      "Style Class": "pathFromWalnutField, shade",
+      "Uncertainty": "* uncertainty: The path can be in the upper path or somewhere else."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "8",
+      "Overall Location": "Return Path",
+      "Ko": "<a id =\"shade2_ko\" class=\"highlight shade\">그늘</a>의 고마움을 처음 느꼈다.",
+      "En": "He felt grateful to the <a id =\"shade2_en\" class=\"highlight shade\">shade</a> for the first time.",
+      "Location Addresses in Text": "shade2_ko, shade2_en",
+      "Style Class": "shade"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "9",
+      "Overall Location": "Return Path",
+      "Ko": "불룩한 주머니를 어루만졌다.",
+      "En": "He patted his stuffed pocket."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "10",
+      "Overall Location": "Return Path",
+      "Ko": "호두송이를 맨손으로 깠다가는 옴이 오르기 쉽다는 말 같은 건 아무렇지도 않았다.",
+      "En": "He didn't pay any mind to the fact that he would get a rash if he peeled the walnuts with his bare hands."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "11",
+      "Overall Location": "Return Path",
+      "Ko": "그저 근동에서 제일 가는 이 덕쇠 할아버지네 호두를 어서 소녀에게 맛보여야 한다는 생각만 앞섰다.",
+      "En": "He was only focused on having the girl taste elder Deok Soe's walnuts, the best walnuts in the nearby neighborhood."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "12",
+      "Overall Location": "Return Path",
+      "Ko": "그러다, 아차 하는 생각이 들었다.",
+      "En": "Then he thought, Oh my goodness."
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "13",
+      "Overall Location": "Return Path",
+      "Ko": "소녀더러 병이 좀 낫거들랑 이사 가기 전에 한 번 <a id=\"creek11_ko\" class=\"highlight creek\">개울가</a>로 나와 달라는 말을 못해 둔 것이었다.",
+      "En": "He couldn't tell the girl to come to the <a id=\"creek11_ko\" class=\"highlight creek\">creek</a> after getting better before moving.",
+      "Location Addresses in Text": "creek11_ko, creek11_en",
+      "Style Class": "creek"
+  },
+  {
+      "__7 sections": "5",
+      "Segment": "19",
+      "N": "14",
+      "Overall Location": "Return Path",
+      "Ko": "바보 같은 것, 바보 같은 것.",
+      "En": "Foolish, foolish."
+  },
+  {
+      "__7 sections": "6",
+      "Segment": "20",
+      "N": "1",
+      "Overall Location": "Boy's Home",
+      "Ko": "이튿날, 소년이 <a id=\"school3_ko\" class=\"highlight school\">학교</a>에서 돌아오니, 아버지가 나들이옷으로 갈아입고 닭 한 마리를 안고 있었다.",
+      "En": "The next day, when the boy returned from <a id=\"school3_en\" class=\"highlight school\">school</a>, his father changed into his finest clothes, then was grabbing a chicken. ",
+      "Location Addresses in Text": "school3_ko, school3_en",
+      "Style Class": "boysHome",
+      "Type of Location (Add additional Style)": "Boy's HOME IS Not directly mentioned but deduced from the context"
+  },
+  {
+      "__7 sections": "6",
+      "Segment": "20",
+      "N": "2",
+      "Overall Location": "Boy's Home",
+      "Ko": "어니 가시느냐고 물었다.",
+      "En": "The boy asked if he was going somewhere."
+  },
+  {
+      "__7 sections": "6",
+      "Segment": "20",
+      "N": "3",
+      "Overall Location": "Boy's Home",
+      "Ko": "그 말에도 대꾸도 없이, 아버지는 안고 있는 닭의 무게를 겨냥해 보면서, \"이만하면 될까?\"",
+      "En": "Without acknowledging that question, the father measured the weight of the chicken and asked, \"Will this be enough?\""
+  },
+  {
+      "__7 sections": "6",
+      "Segment": "20",
+      "N": "4",
+      "Overall Location": "Boy's Home",
+      "Ko": "어머니가 망태기를 내주며, \"벌써 며칠째 '걀걀'하고 알 날 자리를 보던데요. 크진 않아도 살은 쪘을 거예요.\"",
+      "En": "The boy’s mother offered a mesh bag saying, “It has already been a few days since the hen started making noise, looking for a place to lay eggs. It’s not big, but it’ll be meaty.”"
+  },
+  {
+      "__7 sections": "6",
+      "Segment": "20",
+      "N": "5",
+      "Overall Location": "Boy's Home",
+      "Ko": "소년이 이번에는 어머니한테 아버지가 어디 가시느냐고 물어 보았다.",
+      "En": "The boy redirected his question to his mother, asking her where his father was headed."
+  },
+  {
+      "__7 sections": "6",
+      "Segment": "20",
+      "N": "6",
+      "Overall Location": "Boy's Home",
+      "Ko": "\"저, <a id =\"seodanggol1_ko\" class=\"highlight seodanggol\">서당골</a> <a id =\"girlsHouse4_ko\" class=\"highlight girlsHouse\">윤 초시 댁</a>에 가신다. 제사상에라도 놓으시라고.\"",
+      "En": "“Well, he’s going to <a id =\"girlsHouse4_en\" class=\"highlight girlsHouse\">Yoon Cho-si’s residence</a> in <a id =\"seodanggol1_en\" class=\"highlight seodanggol\">Seodanggol</a>. This is for their memorial service…”",
+      "Location Addresses in Text": "girlsHouse4_ko, girlsHouse4_en, seodanggol1_ko, seodanggol1_en",
+      "Style Class": "girlsHouse, seodanggol",
+      "Type of Location (Add additional Style)": "Mentioned Place . 소녀의 집 = 윤초시네 집"
+  },
+  {
+      "__7 sections": "6",
+      "Segment": "20",
+      "N": "7",
+      "Overall Location": "Boy's Home",
+      "Ko": "\"그럼, 큰 놈으로 하나 가져가지. 저 얼룩수탉으로... ... .\"",
+      "En": "“Then you should take a big one. Like that rooster…”"
+  },
+  {
+      "__7 sections": "6",
+      "Segment": "20",
+      "N": "8",
+      "Overall Location": "Boy's Home",
+      "Ko": "이 말에, 아버지는 허허 웃고 나서, \"임마, 그래도 이게 실속이 있다.\"",
+      "En": "His father let out a chuckle then said, “You rascal, this one will do.” "
+  },
+  {
+      "__7 sections": "6",
+      "Segment": "20",
+      "N": "9",
+      "Overall Location": "Barn",
+      "Ko": "소년은 공연히 열적어, 책보를 집어던지고 <a id =\"barn1_ko\" class=\"highlight barn\">외양간</a>으로 가, 쇠잔등을 한번 철썩 갈겼다. 쇠파리라도 잡는 체.",
+      "En": "He was bashful for no reason that he threw the book carrier and struck a cow’s back in the <a id =\"barn1_en\" class=\"highlight barn\">barn</a> as if swatting a fly.",
+      "Location Addresses in Text": "barn1_ko, barn1_en",
+      "Style Class": "barn"
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "21",
+      "N": "1",
+      "Overall Location": "Creek",
+      "Ko": "<a id=\"creek11_ko\" class=\"highlight creek\">개울</a>물은 날로 여물어 갔다.",
+      "En": "The <a id=\"creek11_ko\" class=\"highlight creek\">creek</a> had grown since then.",
+      "Location Addresses in Text": "creek11_ko, creek11_en",
+      "Style Class": "creek"
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "21",
+      "N": "2",
+      "Overall Location": "Fork / Lower Path",
+      "Ko": "소년은 <a id =\"fork3_ko\" class=\"highlight fork\">갈림길</a>에서 <a id =\"lowerPath2_ko\" class=\"highlight lowerPath\">아래쪽</a>으로 가 보았다.",
+      "En": "The boy went down the <a id =\"lowerPath2_en\" class=\"highlight lowerPath\">lower path</a> of the <a id =\"fork3_en\" class=\"highlight fork\">forked road</a>.",
+      "Location Addresses in Text": "lowerPath2_ko, lowerPath2_en, fork3_ko, fork3_en",
+      "Style Class": "lowerPath, fork"
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "21",
+      "N": "3",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "<a id =\"reedsTallest3_ko\" class=\"highlight reedsfield\">갈밭머리</a>에서 바라보는 <a id =\"seodanggol2_ko\" class=\"highlight seodanggol\">서당골 마을</a>은 쪽빛 하늘 아래 한결 가까워 보였다.",
+      "En": "From the <a id =\"reedsTallest3_en\" class=\"highlight reedsfield\">edge of the reeds grass field</a>, <a id =\"seodanggol2_en\" class=\"highlight seodanggol\">Seodanggol village</a> seemed so close to the dark blue sky.\n",
+      "Location Addresses in Text": "reedsTallest3_ko, reedsTallest3_en, seodanggol2_ko, seodanggol2_en",
+      "Style Class": "reedsTallest, seodanggol",
+      "Type of Location (Add additional Style)": "The place is seen From where the boy is,"
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "21",
+      "N": "4",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "어른들의 말이, 내일 소녀네가 <a id =\"yangpyeong1_ko\" class=\"highlight yangpyeong\">양평읍</a>으로 이사 간다는 것이었다.",
+      "En": "According to the elders, the girl’s family would be moving to <a id =\"yangpyeong1_en\" class=\"highlight yangpyeong\">Yeongpyong-up</a> tomorrow.",
+      "Location Addresses in Text": "yangpyeong1_ko, yangpyeong1_en",
+      "Style Class": "yangpyeong",
+      "Type of Location (Add additional Style)": "Mentioned Place"
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "21",
+      "N": "5",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "거기 가서는 <a id =\"littleShop_ko\" class=\"highlight littleShop\">조그마한 가겟방</a>을 보게 되리라는 것이었다.",
+      "En": "They would manage a <a id =\"littleShop_en\" class=\"highlight littleShop\">little shop</a> there. \n",
+      "Location Addresses in Text": "littleShop_ko, littleShop_en",
+      "Style Class": "littleShop",
+      "Type of Location (Add additional Style)": "Mentioned Place"
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "21",
+      "N": "6",
+      "Overall Location": "Field of Grass Reeds",
+      "Ko": "소년은 저도 모르게 주머니 속 호두알을 만지작거리며, 한 손으로는 수없이 갈꽃을 휘어 꺾고 있었다.",
+      "En": "He fiddled with the walnuts in his pocket and bent several reed flowers in one hand."
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "22",
+      "N": "1",
+      "Overall Location": "Boy's home",
+      "Ko": "그 날 밤, 소년은 자리에 누워서도 같은 생각뿐이었다.",
+      "En": "A single thought kept recurring to him while lying down."
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "22",
+      "N": "2",
+      "Overall Location": "Boy's home",
+      "Ko": "내일 소녀네가 이사하는 걸 가 보나 어쩌나.",
+      "En": "Maybe the girl is moving tomorrow."
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "22",
+      "N": "3",
+      "Overall Location": "Boy's home",
+      "Ko": "가면 소녀를 보게 될까 어떨까.",
+      "En": "Maybe I'll see her there."
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "22",
+      "N": "4",
+      "Overall Location": "Boy's home",
+      "Ko": "그러다가 까무룩 잠이 들었는데, \"허, 참 세상일도... ... .\"",
+      "En": "And as he almost fell asleep, “Ha, that’s the nature of the world…”"
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "22",
+      "N": "5",
+      "Overall Location": "Boy's home",
+      "Ko": "<a id =\"seodanggol3_ko\" class=\"highlight seodanggol\">마을</a> 갔던 아버지가 언제 돌아왔는지, \"윤 초시 댁도 말이 아니야, 그 많던 전답을 다 팔아 버리고, 대대로 살아오던 <a id =\"girlsHouse5_ko\" class=\"highlight girlsHouse\">집</a>마저 남의 손에 넘기더니, 또 악상까지 당하는걸 보면... ... .\"",
+      "En": "Upon returning from the <a id =\"seodanggol3_en\" class=\"highlight seodanggol\">village</a>, the boy’s father remarked that, “Yoon Cho-si’s family is so wretched. He sold all of the land, even handed over the <a id =\"girlsHouse5_en\" class=\"highlight girlsHouse\">generation-old house</a> to others, and is now suffering a horrible death.\"",
+      "Location Addresses in Text": "seodanggol3_ko, seodanggol3_en, girlsHouse5_ko,  girlsHouse5_en ",
+      "Style Class": "seodanggol, girlsHouse",
+      "Type of Location (Add additional Style)": "마을 is Deduced to be seodanggol (uncertain)"
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "22",
+      "N": "6",
+      "Overall Location": "Boy's home",
+      "Ko": "남폿불 맡에서 바느질감을 안고 있던 어머니가, \"증손(曾孫)이라곤 계집애 그 애 하나뿐이었지요?\"",
+      "En": "His mother, who was sewing beneath a lamplight, asked, “They only have one great-granddaughter, right?”"
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "22",
+      "N": "7",
+      "Overall Location": "Boy's home",
+      "Ko": "\"그렇지, 사내 애 둘 있던 건 어려서 잃어버리고... ... .\"",
+      "En": "\"Yes, they lost two boys when they were young...\" "
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "22",
+      "N": "8",
+      "Overall Location": "Boy's home",
+      "Ko": "\"어쩌면 그렇게 자식복이 없을까.\"",
+      "En": "\"They must not have very good luck with children.\""
+  },
+  {
+      "__7 sections": "7",
+      "Segment": "22",
+      "N": "9",
+      "Overall Location": "Boy's home",
+      "Ko": "\"글쎄 말이지. 이번 앤 꽤 여러 날 앓는 걸 약도 변변히 못써 봤다더군. 지금 같아서 윤 초시네도 대가 끊긴 셈이지.... ...그런데 참, 이번 계집앤 어린 것이 여간 잔망스럽지가 않아. 글쎄, 죽기전에 이런 말을 했다지 않아? 자기가 죽거든 자기 입던 옷을 꼭그대로 입혀서 묻어 달라고... ... .\"   ",
+      "En": "“Who knows. They haven’t been able to even use medication this time. Yoon Cho-si’s family can no longer carry on their lineage…But that little girl is really something. Well, they said she said when she dies, she would want to be buried with the clothes that she was wearing. \""
+  }
+]
