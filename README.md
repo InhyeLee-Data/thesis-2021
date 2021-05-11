@@ -1,5 +1,5 @@
 # Mapping the Literary Geography of Sonagi
-## Picturing a Fictional Space: A spatial and data-based way to explore the text of literature
+## A spatial and data-based way to explore the text of literature
 
 ### Current Version: https://inhyelee-data.github.io/sonagi/
 
