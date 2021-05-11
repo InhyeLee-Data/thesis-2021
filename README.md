@@ -12,7 +12,8 @@ Sonagi is a Korean word that means “rain shower”. It is also the title of a 
 ### Credits
 Mapping the Literary Geography of Sonagi is a project by Inhye Lee.
 
-The Original Sonagi Text is written by the author Hwang Sun Won. (published in 1953)
+The Original Sonagi Text is written by the author Hwang Sun Won (published in 1953).
+
 English Translation is created by Samara Huggins.
 
 ### Acknowledgement
