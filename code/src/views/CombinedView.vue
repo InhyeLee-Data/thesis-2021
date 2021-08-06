@@ -144,7 +144,6 @@
 
             <line x="0" y="0" class="guideLine" stroke="#000"></line>
             <g x="0" y="0" class="ticks"></g>
-
             <g x="0" y="0" class="segments"></g>
             <g x="0" y="0" class="segmentText"></g>
             <g x="0" y="0" class="timeLineText">
@@ -166,6 +165,9 @@
 <script>
 import * as d3 from "d3";
 import Nav from "../components/Nav.vue";
+import sonagi_ALL from "../../public/sonagi.json";
+import storySegment from "../../public/storySegment.json";
+import sonagiLocations from "../../public/sonagiLocations_tree_EN.json";
 
 export default {
   name: "CombinedView",
@@ -293,7 +295,7 @@ export default {
     this.myRightW = this.width - this.leftW;
     this.myLineW = this.width - this.leftW - this.margin * 2;
     // (0) Songai Entire Text //
-    Promise.all([d3.json("./sonagi.json")]).then(([data]) => {
+    Promise.all([sonagi_ALL]).then(([data]) => {
       console.log("sonagi Data", data);
       let segmentGroup = this.groupByKey(data, "Segment");
       this.aggregateBySeg(segmentGroup, "Segment", "En");
@@ -308,10 +310,7 @@ export default {
   },
   mounted() {
     window.addEventListener("resize", this.onReSize);
-    Promise.all([
-      d3.json("./storySegment.json"),
-      d3.json("./sonagiLocations_tree_EN.json"),
-    ])
+    Promise.all([storySegment, sonagiLocations])
       .then(([storyData, treeData]) => {
         // (1) segmentData for rectangles
         this.segmentData = storyData;
@@ -440,21 +439,6 @@ export default {
         this.instruction = this.instructions[1];
         this.title = this.titles[1];
       }
-      //   this.dPath = d3.path();
-      //   this.dPath.moveTo(
-      //     this.xPos2(6) + this.r2 * 2 + this.m2,
-      //     this.yPos2(1) - this.m2
-      //   );
-      //   this.dPath.lineTo(
-      //     this.xPos2(6) + this.r2 * 2 + this.m2 * 2,
-      //     this.yPos2(1) - this.m2
-      //   );
-      //   this.dPath.lineTo(
-      //     this.xPos2(6) + this.r2 * 2 + this.m2 * 2,
-      //     this.yPos2(4)
-      //   );
-      //   this.dPath.lineTo(this.xPos2(3), this.yPos2(4));
-      //   this.dPath.lineTo(this.xPos2(3), this.yPos2(5) - this.m2);
     },
     basicSetUp() {
       // (1) GuideLine
@@ -519,28 +503,6 @@ export default {
         .attr("y2", () => this.height / 2 - Math.cos(45) * 30)
         .attr("x2", (d) => this.xPos1(d["X1"]) - Math.sin(45) * 20)
         .attr("opacity", 0);
-      // LINE: ADDITIONAL PATH (POS2)
-      //   this.dPath = d3.path();
-      //   this.dPath.moveTo(
-      //     this.xPos2(6) + this.r2 * 2 + this.m2,
-      //     this.yPos2(1) - this.m2
-      //   );
-      //   this.dPath.lineTo(
-      //     this.xPos2(6) + this.r2 * 2 + this.m2 * 2,
-      //     this.yPos2(1) - this.m2
-      //   );
-      //   this.dPath.lineTo(
-      //     this.xPos2(6) + this.r2 * 2 + this.m2 * 2,
-      //     this.yPos2(4)
-      //   );
-      //   this.dPath.lineTo(this.xPos2(3), this.yPos2(4));
-      //   this.dPath.lineTo(this.xPos2(3), this.yPos2(5) - this.m2);
-      //   d3.select(".additional")
-      //     .attr("d", this.dPath)
-      //     .attr("stroke", "#000")
-      //     .attr("stroke-width", "2")
-      //     .attr("fill", "none")
-      //     .attr("opacity", 0);
       ////// (2) TEXT  //////
       d3.select(".timeLineText")
         .selectAll("text")
@@ -582,37 +544,9 @@ export default {
       // this.r1 = window.innerWidth / 70;
       // this.r2 = window.innerWidth / 15;
 
-      // this.dPath = d3.path();
-      //   this.dPath.moveTo(
-      //     this.xPos2(6) + this.r2 * 2 + this.m2,
-      //     this.yPos2(1) - this.m2
-      //   );
-      //   this.dPath.lineTo(
-      //     this.xPos2(6) + this.r2 * 2 + this.m2 * 2,
-      //     this.yPos2(1) - this.m2
-      //   );
-      //   this.dPath.lineTo(
-      //     this.xPos2(6) + this.r2 * 2 + this.m2 * 2,
-      //     this.yPos2(4)
-      //   );
-      //   this.dPath.lineTo(this.xPos2(3), this.yPos2(4));
-      //   this.dPath.lineTo(this.xPos2(3), this.yPos2(5) - this.m2);
     },
     drawSegments1() {
       console.log("drawSegments1");
-
-      // svg.append("defs")
-      //         .append("pattern")
-      //         .attr("x", 0)
-      //         .attr("y", 0)
-      //         .attr("width", this.r1)
-      // 		.attr("height", this.r1)
-      //         .attr("id", "bg")
-      //         .append("image")
-      //         .attr("x", 0).attr("y", 0)
-      //    		.attr("width", this.r1)
-      // 		.attr("height", this.r1)
-      //         .attr("xlink:href", "./img/creekTobuckwheat.svg");
 
       d3.selectAll(".seg_rect")
         .transition()
